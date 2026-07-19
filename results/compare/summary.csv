@@ -1,0 +1,6 @@
+run_id,config_label,baseline_variant,variant,samples,safe,unsafe,unknown,timed_out,missing_input,execution_total_time_s,cpu_total_time_s,kind2_total_time_s,common_solved_count_vs_base,common_solved_total_time_s_vs_base,common_base_total_time_s_vs_base,common_total_time_ratio_vs_base,median_total_time_s,geomean_total_time_s,wins_vs_base,ties_vs_base,losses_vs_base,geomean_speedup_vs_base,newly_solved_vs_base,regressed_vs_base
+compare_single_p_907_with_base_x3,compare_single_p_907_resume,base,base,907,460,338,0,107,0,11142.2900,4485.6400,5255.8450,798,3205.9580,3205.9580,,0.0670,0.1299,,,,,,
+compare_single_p_907_with_base_x3,compare_single_p_907_resume,base,asc_l1l2,907,460,344,0,100,0,8906.5100,4352.8800,4473.1870,788,1906.6250,2668.5730,0.7145,0.0660,0.1363,278,118,392,0.9984,16,10
+compare_single_p_907_with_base_x3,compare_single_p_907_resume,base,desc_l2l1,907,461,343,0,101,0,9668.8900,4660.0600,5076.0520,788,2392.8500,2982.1160,0.8024,0.0680,0.1342,297,154,337,1.0190,16,10
+compare_single_p_907_with_base_x3,compare_single_p_907_resume,base,pic3,907,465,353,0,87,0,4775.0000,8306.8200,3052.1040,798,1343.8700,3205.9580,0.4192,0.0670,0.1271,325,171,302,1.1398,20,0
+compare_single_p_907_with_base_x3,compare_single_p_907_resume,base,base_x3,907,460,344,0,101,0,9692.9200,12153.7600,3727.6260,796,1905.2010,2868.8710,0.6641,0.0710,0.1329,138,120,538,1.0020,8,2

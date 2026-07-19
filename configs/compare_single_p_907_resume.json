@@ -1,0 +1,82 @@
+{
+  "name": "compare_single_p_907_resume",
+  "binary": {
+    "path": "/home/lyh/kind2-3.0.0-PIC3/bin/kind2",
+    "repo": "/home/lyh/kind2-3.0.0-PIC3"
+  },
+  "dataset": {
+    "path_file": "/home/lyh/kind2-exp/kind2-benchmark/lus_path_907",
+    "root": "/home/lyh/kind2-exp/kind2-benchmark"
+  },
+  "baseline": "base",
+  "reuse_variants": {
+    "base": "/home/lyh/kind2-exp/PIC3_ICECCS2026/runs/20260717_110114_compare_single_p",
+    "asc_l1l2": "/home/lyh/kind2-exp/PIC3_ICECCS2026/runs/20260717_110114_compare_single_p",
+    "desc_l2l1": "/home/lyh/kind2-exp/PIC3_ICECCS2026/runs/20260717_110114_compare_single_p",
+    "pic3": "/home/lyh/kind2-exp/PIC3_ICECCS2026/runs/20260717_110114_compare_single_p"
+  },
+  "run": {
+    "timeout_seconds": 300,
+    "max_workers": 1,
+    "cleanup_kind2_between_variants": true,
+    "skip_path_file": "/home/lyh/kind2-exp/PIC3_ICECCS2026/datasets/all_strategies_repeated_timeouts_82.txt",
+    "common_args": [
+      "-vv",
+      "--color",
+      "false",
+      "--timeout",
+      "300"
+    ],
+    "metrics": [
+      "frame_sizes",
+      "total_time",
+      "k",
+      "solver"
+    ]
+  },
+  "variants": [
+    {
+      "name": "base",
+      "args": [
+        "--enable",
+        "IC3QE"
+      ]
+    },
+    {
+      "name": "asc_l1l2",
+      "args": [
+        "--enable",
+        "IC3QEL1L2"
+      ]
+    },
+    {
+      "name": "desc_l2l1",
+      "args": [
+        "--enable",
+        "IC3QEL2L1"
+      ]
+    },
+    {
+      "name": "pic3",
+      "args": [
+        "--enable",
+        "IC3QE",
+        "--enable",
+        "IC3QEL1L2",
+        "--enable",
+        "IC3QEL2L1"
+      ]
+    },
+    {
+      "name": "base_x3",
+      "args": [
+        "--enable",
+        "IC3QEBASE1",
+        "--enable",
+        "IC3QEBASE2",
+        "--enable",
+        "IC3QEBASE3"
+      ]
+    }
+  ]
+}

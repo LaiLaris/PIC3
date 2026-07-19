@@ -1,0 +1,912 @@
+filename,property_result,frame_sizes,total_time,k,solver,max_memory(MB),execution_time(s),cpu_time(s),exit_code,timed_out,variant
+FMCAD08/Bool/misc/stalmark_e8_64_e7_80.lus,Unsafe,0,0.073,1,9,71.00,0.53,0.10,40,false,base_x3
+FMCAD08/Bool/misc/stalmark_e7_27.lus,Safe,6 5 3,0.112,4,201,89.15,0.52,0.33,0,false,base_x3
+FMCAD08/Bool/misc/switch.lus,Error,,,,,12.75,0.11,0.01,3,false,base_x3
+FMCAD08/Bool/misc/switch2.lus,Error,,,,,11.62,0.11,0.01,3,false,base_x3
+FMCAD08/Bool/misc/stalmark_e8_64_e8_207.lus,Unsafe,,0.007,0,1,32.71,0.42,0.05,40,false,base_x3
+FMCAD08/Bool/misc/_6counter2.lus,Unsafe,3 2 1 0,0.135,4,202,88.55,0.63,0.41,40,false,base_x3
+FMCAD08/Bool/misc/stalmark_e7_27_e7_31.lus,Safe,6 5 3,0.122,4,196,87.74,0.63,0.38,0,false,base_x3
+FMCAD08/Bool/misc/_6counter.lus,Unsafe,7 5 3 2 1,0.408,5,661,94.61,0.84,1.17,40,false,base_x3
+FMCAD08/Bool/misc/stalmark_e8_48.lus,Unsafe,,0.007,0,2,58.50,0.42,0.05,40,false,base_x3
+FMCAD08/Bool/misc/stalmark.lus,Safe,4 2,0.091,3,145,90.75,0.52,0.27,0,false,base_x3
+FMCAD08/Bool/misc/stalmark_e7_76.lus,Safe,6 5 3,0.110,4,201,89.25,0.52,0.32,0,false,base_x3
+FMCAD08/Bool/simulation/ums_e8_1032.lus,Safe,3,0.118,2,46,88.88,0.63,0.37,0,false,base_x3
+FMCAD08/Bool/simulation/production_cell_e7_207_e7_41.lus,Unsafe,,0.025,0,2,21.27,0.55,0.14,40,false,base_x3
+FMCAD08/Bool/simulation/tramway.lus,Safe,10 8 4,0.655,4,732,104.30,1.15,1.95,0,false,base_x3
+FMCAD08/Bool/simulation/ums_e7_1700.lus,Unsafe,7,0.307,1,141,99.89,0.73,0.96,40,false,base_x3
+FMCAD08/Bool/simulation/production_cell_e7_21.lus,Unsafe,,0.016,0,2,63.75,0.52,0.08,40,false,base_x3
+FMCAD08/Bool/simulation/production_cell_e7_207_e8_241.lus,Safe,5,0.082,2,73,95.37,0.52,0.26,0,false,base_x3
+FMCAD08/Bool/simulation/tramway_e7_1834_e8_3192.lus,Safe,10 8 4,0.644,4,732,102.86,1.05,1.90,0,false,base_x3
+FMCAD08/Bool/simulation/production_cell_e8_6.lus,Safe,5,0.082,2,74,95.00,0.52,0.26,0,false,base_x3
+FMCAD08/Bool/simulation/tramway_e7_1834_e7_2363.lus,Safe,4,0.099,2,64,96.32,0.52,0.32,0,false,base_x3
+FMCAD08/Bool/simulation/ums.lus,Safe,2,0.095,2,33,90.25,0.52,0.30,0,false,base_x3
+FMCAD08/Bool/simulation/production_cell.lus,Safe,5,0.082,2,73,93.62,0.52,0.26,0,false,base_x3
+FMCAD08/Bool/simulation/tramway_e7_1834.lus,Safe,3,0.079,2,47,90.95,0.52,0.25,0,false,base_x3
+FMCAD08/Bool/simulation/production_cell_e8_6_e7_651.lus,Unsafe,,0.016,0,2,21.38,0.42,0.08,40,false,base_x3
+FMCAD08/Bool/simulation/production_cell_e8_6_e8_427.lus,Unsafe,3,0.078,1,53,94.62,0.52,0.25,40,false,base_x3
+FMCAD08/Int/protocol/swimmingpool_4_e7_2197.lus,Unsafe,6 4,0.274,2,169,105.20,0.86,0.79,40,false,base_x3
+FMCAD08/Int/protocol/rtp_9.lus,Safe,1,0.058,2,25,41.34,0.53,0.23,0,false,base_x3
+FMCAD08/Int/protocol/rtp_6.lus,Safe,2,0.086,2,41,91.23,0.52,0.30,0,false,base_x3
+FMCAD08/Int/protocol/swimmingpool_6.lus,Unsafe,6 3 1,0.607,3,355,109.32,1.16,1.88,40,false,base_x3
+FMCAD08/Int/protocol/rtp_7.lus,Safe,1,0.056,2,27,50.46,0.52,0.21,0,false,base_x3
+FMCAD08/Int/protocol/swimmingpool_6_e7_399.lus,Unsafe,13 9 4,1.206,3,840,117.93,1.67,3.64,40,false,base_x3
+FMCAD08/Int/protocol/rtp_4.lus,Safe,2,0.090,2,39,66.10,0.52,0.32,0,false,base_x3
+FMCAD08/Int/protocol/swimmingpool_1_e7_1621.lus,Unsafe,5 4,0.221,2,115,104.29,0.73,0.68,40,false,base_x3
+FMCAD08/Int/protocol/rtp_8.lus,Safe,1,0.057,2,25,25.08,0.54,0.23,0,false,base_x3
+FMCAD08/Int/protocol/swimmingpool_4.lus,Unsafe,3 2,0.139,2,84,103.06,0.64,0.46,40,false,base_x3
+FMCAD08/Int/protocol/peterson_all.lus,Safe,7,0.308,2,134,107.55,0.84,1.01,0,false,base_x3
+FMCAD08/Int/protocol/peterson_3.lus,Safe,2,0.102,2,41,106.56,0.63,0.35,0,false,base_x3
+FMCAD08/Int/protocol/swimmingpool_3.lus,Unsafe,1,0.101,1,50,96.70,0.53,0.34,40,false,base_x3
+FMCAD08/Int/protocol/swimmingpool_1.lus,Unsafe,8 6 4 2,0.993,4,660,115.04,1.46,2.99,40,false,base_x3
+FMCAD08/Int/protocol/swimmingpool_2.lus,Unsafe,,0.033,0,2,21.64,0.53,0.17,40,false,base_x3
+FMCAD08/Int/protocol/rtp_all.lus,Safe,11,0.416,2,224,107.31,0.95,1.30,0,false,base_x3
+FMCAD08/Int/protocol/readwrit.lus,Safe,1,0.070,2,25,93.24,0.52,0.24,0,false,base_x3
+FMCAD08/Int/protocol/rtp_1.lus,Safe,2,0.084,2,41,57.06,0.52,0.30,0,false,base_x3
+FMCAD08/Int/protocol/rtp_2.lus,Safe,3,0.104,2,58,94.62,0.63,0.35,0,false,base_x3
+FMCAD08/Int/protocol/rtp_5.lus,Safe,1,0.059,2,27,20.35,0.52,0.22,0,false,base_x3
+FMCAD08/Int/protocol/rtp_3.lus,Safe,2,0.108,2,41,65.86,0.64,0.38,0,false,base_x3
+FMCAD08/Int/protocol/peterson_2.lus,Safe,1,0.070,2,27,44.71,0.52,0.26,0,false,base_x3
+FMCAD08/Int/protocol/peterson_1_e7_4234.lus,Safe,1,0.076,2,27,58.27,0.52,0.27,0,false,base_x3
+FMCAD08/Int/protocol/peterson_1.lus,Safe,1,0.093,2,27,101.27,0.63,0.39,0,false,base_x3
+FMCAD08/Int/protocol/peterson_4.lus,Safe,1,0.095,2,27,106.40,0.63,0.34,0,false,base_x3
+FMCAD08/Int/protocol/swimmingpool_8.lus,Unsafe,6 2,0.459,2,242,107.66,0.95,1.39,40,false,base_x3
+FMCAD08/Int/protocol/rtp_10_e7_106_e7_2564.lus,Safe,2,0.115,2,41,104.23,0.63,0.40,0,false,base_x3
+FMCAD08/Int/protocol/rtp_5_e7_3972.lus,Safe,2,0.107,2,31,103.98,0.63,0.36,0,false,base_x3
+FMCAD08/Int/protocol/swimmingpool_6_e7_10_e7_341.lus,Unsafe,5 4 2,0.389,3,271,106.84,0.84,1.17,40,false,base_x3
+FMCAD08/Int/protocol/swimmingpool_7.lus,Unsafe,8 7 6 4 2,1.091,5,921,113.35,1.57,3.20,40,false,base_x3
+FMCAD08/Int/protocol/rtp_all_e7_2500.lus,Safe,16,0.628,2,362,110.20,1.15,1.92,0,false,base_x3
+FMCAD08/Int/protocol/swimmingpool_9.lus,Unsafe,10 2,0.844,2,459,111.29,1.36,2.55,40,false,base_x3
+FMCAD08/Int/protocol/rtp_10.lus,Safe,1,0.056,2,25,50.71,0.52,0.21,0,false,base_x3
+FMCAD08/Int/protocol/rtp_vt.lus,Safe,121 120 119 116 111 107 80 47,92.197,9,23792,327.07,92.98,141.98,0,false,base_x3
+FMCAD08/Int/protocol/swimmingpool_5.lus,Unsafe,2 1,0.221,2,88,104.82,0.73,0.69,40,false,base_x3
+FMCAD08/Int/protocol/peterson_vt.lus,Unsafe,5 2,0.521,2,170,111.82,1.05,1.63,40,false,base_x3
+FMCAD08/Int/misc/ticket3i_2.lus,Safe,2,0.068,2,37,102.54,0.62,0.24,0,false,base_x3
+FMCAD08/Int/misc/durationThm_3_e3_442_e5_260.lus,Safe,1,0.038,2,28,98.95,0.53,0.13,0,false,base_x3
+FMCAD08/Int/misc/ticket3i_7_e7_3176.lus,Safe,6,0.153,2,100,104.46,0.64,0.49,0,false,base_x3
+FMCAD08/Int/misc/durationThm_1_e7_217_e3_132.lus,Safe,3,0.057,2,48,99.32,0.53,0.19,0,false,base_x3
+FMCAD08/Int/misc/durationThm_2_e7_145_e8_73.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/misc/durationThm_2_e7_145_e1_343.lus,Unsafe,,0.012,0,2,20.55,0.42,0.07,40,false,base_x3
+FMCAD08/Int/misc/_6counters.lus,Unsafe,34 31 27 24 20 19 17 15 10,8.450,9,7000,152.71,8.93,25.23,40,false,base_x3
+FMCAD08/Int/misc/ticket3i_7_e7_3176_e1_2924.lus,Safe,7,0.198,2,119,103.84,0.73,0.63,0,false,base_x3
+FMCAD08/Int/misc/durationThm_1_e2_3.lus,Safe,1,0.036,2,23,99.34,0.52,0.12,0,false,base_x3
+FMCAD08/Int/misc/durationThm_2_e7_145_e3_222.lus,Safe,4,0.068,2,59,56.84,0.55,0.24,0,false,base_x3
+FMCAD08/Int/misc/durationThm_3_e7_334_e2_62.lus,Safe,3,0.066,2,46,99.06,0.53,0.22,0,false,base_x3
+FMCAD08/Int/misc/ticket3i_1.lus,Safe,3,0.089,2,54,101.25,0.52,0.29,0,false,base_x3
+FMCAD08/Int/misc/durationThm_3.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/misc/traffic_e7_46_e7_171.lus,Unsafe,,0.009,0,1,59.16,0.42,0.06,40,false,base_x3
+FMCAD08/Int/misc/durationThm_2_e7_149.lus,Unsafe,,0.012,0,2,60.20,0.52,0.06,40,false,base_x3
+FMCAD08/Int/misc/durationThm_3_e7_334_e3_42.lus,Safe,3,0.063,2,48,99.45,0.52,0.20,0,false,base_x3
+FMCAD08/Int/misc/ticket3i_7_e3_59_e7_2122.lus,Safe,6,0.163,2,105,103.82,0.63,0.52,0,false,base_x3
+FMCAD08/Int/misc/ex8_e7_74.lus,Unsafe,0,0.024,2,13,21.20,0.53,0.09,40,false,base_x3
+FMCAD08/Int/misc/ex8_e7_74_e7_740.lus,Unsafe,0,0.026,2,13,61.43,0.42,0.08,40,false,base_x3
+FMCAD08/Int/misc/ticket3i_3_e7_99.lus,Unsafe,,0.022,0,2,94.29,0.52,0.12,40,false,base_x3
+FMCAD08/Int/misc/ticket3i_3_e7_1312_e8_1916.lus,Safe,1,0.055,2,24,98.90,0.52,0.20,0,false,base_x3
+FMCAD08/Int/misc/ex8_e8_220_e7_249.lus,Unsafe,0,0.026,2,13,61.00,0.42,0.09,40,false,base_x3
+FMCAD08/Int/misc/two_counters_e1_268.lus,Unsafe,,0.009,0,2,59.29,0.42,0.06,40,false,base_x3
+FMCAD08/Int/misc/durationThm_2.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/misc/durationThm_3_e1_36.lus,Unsafe,0,0.026,1,9,62.95,0.53,0.10,40,false,base_x3
+FMCAD08/Int/misc/ticket3i_all_e8_505_e7_2450.lus,Safe,7,0.173,2,121,104.71,0.63,0.56,0,false,base_x3
+FMCAD08/Int/misc/durationThm_1_e1_350.lus,Unsafe,,0.013,0,2,59.96,0.52,0.07,40,false,base_x3
+FMCAD08/Int/misc/ticket3i_3_e8_1703_e8_2560.lus,Safe,1,0.049,2,24,100.93,0.52,0.18,0,false,base_x3
+FMCAD08/Int/misc/durationThm_1_e3_389.lus,Safe,1,0.035,2,23,98.32,0.52,0.12,0,false,base_x3
+FMCAD08/Int/misc/durationThm_3_e3_442_e4_165.lus,Safe,1,0.034,2,24,99.82,0.52,0.11,0,false,base_x3
+FMCAD08/Int/misc/durationThm_1_e7_217_e7_31.lus,Unsafe,,0.012,0,2,59.45,0.53,0.07,40,false,base_x3
+FMCAD08/Int/misc/durationThm_1.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/misc/ticket3i_all_e7_591.lus,Safe,6,0.160,2,102,103.71,0.63,0.50,0,false,base_x3
+FMCAD08/Int/misc/durationThm_2_e1_301.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/misc/two_counters_e3_325.lus,Unsafe,0,0.029,1,17,97.90,0.53,0.11,40,false,base_x3
+FMCAD08/Int/misc/durationThm_3_e7_334.lus,Timeout,4,0.063,1,46,811.14,300.20,324.69,30,true,base_x3
+FMCAD08/Int/misc/_6counters_e8_371_e1_448.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/misc/ticket3i_3_e8_1703_e7_3491.lus,Unsafe,,0.020,0,2,91.52,0.52,0.12,40,false,base_x3
+FMCAD08/Int/misc/ticket3i_1_e7_1669.lus,Safe,3,0.091,2,54,99.88,0.52,0.30,0,false,base_x3
+FMCAD08/Int/misc/durationThm_1_e7_217.lus,Unsafe,1,0.044,1,26,98.64,0.52,0.15,40,false,base_x3
+FMCAD08/Int/misc/traffic.lus,Safe,2,0.040,2,38,97.43,0.52,0.13,0,false,base_x3
+FMCAD08/Int/misc/two_counters_e2_3.lus,Unsafe,0,0.025,1,9,61.79,0.53,0.10,40,false,base_x3
+FMCAD08/Int/misc/ticket3i_7_e1_2192_e1_1852.lus,Safe,9,0.212,2,167,102.57,0.74,0.67,0,false,base_x3
+FMCAD08/Int/misc/_6counters_e3_140_e8_149.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/misc/ticket3i_7_e2_2724_e7_524.lus,Safe,6,0.157,2,105,103.34,0.63,0.50,0,false,base_x3
+FMCAD08/Int/misc/durationThm_2_e7_145_e2_169.lus,Safe,4,0.064,2,58,98.36,0.53,0.21,0,false,base_x3
+FMCAD08/Int/misc/durationThm_2_e7_145_e7_154.lus,Unsafe,,0.012,0,2,59.82,0.42,0.06,40,false,base_x3
+FMCAD08/Int/misc/_6counters_e8_371_e7_304.lus,Unsafe,17 14 11 8,1.380,4,1532,112.90,1.89,4.11,40,false,base_x3
+FMCAD08/Int/misc/durationThm_2_e3_329_e4_1.lus,Safe,2,0.045,2,33,98.09,0.52,0.15,0,false,base_x3
+FMCAD08/Int/misc/_6countern.lus,Unsafe,,0.006,0,1,19.49,0.42,0.05,40,false,base_x3
+FMCAD08/Int/misc/durationThm_3_e7_334_e7_118.lus,Unsafe,,0.010,0,1,60.07,0.52,0.06,40,false,base_x3
+FMCAD08/Int/misc/ticket3i_3_e8_1703.lus,Safe,2,0.067,2,37,90.79,0.63,0.23,0,false,base_x3
+FMCAD08/Int/misc/ticket3i_4.lus,Safe,2,0.065,2,39,93.82,0.53,0.23,0,false,base_x3
+FMCAD08/Int/misc/ticket3i_3_e7_1312_e7_1495.lus,Unsafe,,0.020,0,2,101.51,0.53,0.11,40,false,base_x3
+FMCAD08/Int/misc/durationThm_1_e7_217_e1_89.lus,Unsafe,,0.013,0,2,60.46,0.52,0.07,40,false,base_x3
+FMCAD08/Int/misc/durationThm_3_e7_334_e1_431.lus,Unsafe,0,0.026,1,9,56.47,0.54,0.11,40,false,base_x3
+FMCAD08/Int/misc/ex8.lus,Unsafe,0,0.025,2,13,95.19,0.53,0.09,40,false,base_x3
+FMCAD08/Int/misc/_6counters_e8_371_e2_80.lus,Safe,0,0.019,2,12,58.81,0.42,0.07,0,false,base_x3
+FMCAD08/Int/misc/two_counters.lus,Safe,27 25 23 19 12,1.217,6,1782,113.97,1.67,3.59,0,false,base_x3
+FMCAD08/Int/misc/durationThm_3_e3_207.lus,Safe,1,0.038,2,28,98.25,0.52,0.13,0,false,base_x3
+FMCAD08/Int/misc/ticket3i_3.lus,Safe,1,0.048,2,24,100.27,0.54,0.18,0,false,base_x3
+FMCAD08/Int/misc/durationThm_2_e3_329_e5_124.lus,Safe,2,0.045,2,33,99.20,0.53,0.15,0,false,base_x3
+FMCAD08/Int/misc/_6counters_e8_371_e3_224.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/misc/ex8_e7_74_e8_302.lus,Unsafe,0,0.025,2,13,61.56,0.42,0.08,40,false,base_x3
+FMCAD08/Int/misc/ticket3i_all_e3_557_e7_3464.lus,Safe,6,0.133,2,85,103.71,0.63,0.43,0,false,base_x3
+FMCAD08/Int/misc/ticket3i_5_e7_3307.lus,Safe,2,0.071,2,39,93.52,0.53,0.24,0,false,base_x3
+FMCAD08/Int/misc/two_counters_e7_222.lus,Unsafe,,0.009,0,2,20.25,0.42,0.06,40,false,base_x3
+FMCAD08/Int/misc/traffic_e7_46.lus,Unsafe,,0.008,0,1,59.66,0.42,0.05,40,false,base_x3
+FMCAD08/Int/misc/twisted_counters.lus,Safe,22 20 16 13 9,2.228,6,2787,122.95,2.61,6.57,0,false,base_x3
+FMCAD08/Int/misc/durationThm_1_e3_389_e5_5.lus,Safe,1,0.036,2,23,19.95,0.53,0.13,0,false,base_x3
+FMCAD08/Int/misc/durationThm_2_e2_63.lus,Safe,3,0.054,2,45,99.69,0.52,0.17,0,false,base_x3
+FMCAD08/Int/misc/durationThm_2_e3_99.lus,Safe,2,0.043,2,33,99.74,0.53,0.14,0,false,base_x3
+FMCAD08/Int/misc/ticket3i_all_e2_1117_e7_553.lus,Safe,6,0.178,2,105,102.64,0.63,0.57,0,false,base_x3
+FMCAD08/Int/misc/ticket3i_7.lus,Safe,6,0.144,2,105,104.02,0.64,0.47,0,false,base_x3
+FMCAD08/Int/misc/ticket3i_4_e7_1775_e7_3320.lus,Safe,2,0.063,2,34,94.26,0.52,0.22,0,false,base_x3
+FMCAD08/Int/misc/durationThm_1_e3_389_e4_294.lus,Safe,1,0.036,2,23,100.10,0.52,0.12,0,false,base_x3
+FMCAD08/Int/misc/ticket3i_all.lus,Safe,6,0.147,2,105,102.60,0.63,0.47,0,false,base_x3
+FMCAD08/Int/misc/durationThm_1_e7_217_e2_352.lus,Safe,3,0.059,2,50,98.21,0.54,0.19,0,false,base_x3
+FMCAD08/Int/misc/ticket3i_7_e8_2126_e7_78.lus,Safe,6,0.169,2,100,103.44,0.63,0.54,0,false,base_x3
+FMCAD08/Int/misc/ticket3i_all_e1_2706_e7_1776.lus,Safe,6,0.165,2,102,103.36,0.64,0.53,0,false,base_x3
+FMCAD08/Int/misc/durationThm_3_e2_63.lus,Safe,1,0.036,2,24,98.20,0.52,0.12,0,false,base_x3
+FMCAD08/Int/misc/ticket3i_5.lus,Safe,2,0.068,2,39,99.77,0.53,0.23,0,false,base_x3
+FMCAD08/Int/misc/ticket3i_6_e7_1096_e7_2688.lus,Safe,2,0.071,2,39,30.52,0.52,0.24,0,false,base_x3
+FMCAD08/Int/misc/ex8_e8_220.lus,Unsafe,0,0.026,2,13,61.68,0.42,0.08,40,false,base_x3
+FMCAD08/Int/misc/ex3.lus,Safe,4 3,0.119,3,138,100.18,0.52,0.34,0,false,base_x3
+FMCAD08/Int/misc/ticket3i_6.lus,Safe,2,0.073,2,39,101.89,0.52,0.24,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_2_e7_25_e8_3171.lus,Safe,1,0.066,2,22,53.03,0.52,0.25,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_10_e1_3587_e7_872.lus,Unsafe,,0.023,0,2,58.23,0.53,0.13,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1b_e2_3049.lus,Unsafe,0,0.061,1,17,97.10,0.52,0.22,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1a_e2_284_e1_2924.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/DRAGON_4_e7_2329.lus,Unsafe,0,0.087,1,20,104.69,0.63,0.32,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1b_e3_671_e5_1637.lus,Unsafe,0,0.056,1,17,94.35,0.52,0.21,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_all_e3_1600_e7_1607.lus,Unsafe,,0.020,0,2,100.38,0.52,0.11,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_3_e2_2236_e3_2657.lus,Unsafe,1,0.078,1,34,101.34,0.52,0.27,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_all_e7_1909.lus,Unsafe,,0.021,0,2,77.84,0.53,0.11,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all2_e8_5504_e1_4719.lus,Unsafe,,0.035,0,2,59.38,0.52,0.19,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_3_e3_5422_e2_3135.lus,Safe,1,0.075,2,27,67.21,0.52,0.27,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all_e2_6104_e2_3308.lus,Safe,5,0.191,2,88,104.70,0.74,0.63,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_10_e1_998.lus,Safe,2,0.093,2,39,65.85,0.54,0.32,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_a3_e1_3233.lus,Unsafe,0,0.064,1,22,93.97,0.54,0.24,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all2_e7_5406_e7_6697.lus,Unsafe,,0.028,0,2,43.13,0.52,0.17,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_8_e3_786.lus,Timeout,"21 20 18 16 14 13 12 11 10 9 8 7 6
+                                            5 4 2",69.610,16,21695,589.88,302.28,1.78,1,true,base_x3
+FMCAD08/Int/memory1/FIREFLY_u1.lus,Safe,17 15 14 12 7,1.397,6,1343,116.39,1.89,4.18,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all_e3_4821_e4_1791.lus,Safe,5,0.188,2,88,104.20,0.63,0.61,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_3.lus,Safe,1,0.045,2,25,93.22,0.53,0.16,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_4_e1_4312.lus,Safe,23 18 12 7,3.443,5,2502,129.32,3.87,10.34,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_2.lus,Safe,1,0.052,2,27,20.20,0.52,0.19,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all_e1_4022_e1_1759.lus,Safe,4,0.166,2,65,104.58,0.63,0.54,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_rt_e3_1549.lus,Unsafe,0,0.064,1,22,99.77,0.52,0.23,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_a3_e2_2086_e3_2542.lus,Safe,4,0.114,2,71,99.37,0.63,0.37,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_4.lus,Safe,36 31 24 11,4.360,5,3010,134.82,4.81,12.87,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_5_e2_2884_e1_2678.lus,Safe,2,0.063,2,41,94.29,0.53,0.22,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all_e2_6104_e3_2607.lus,Safe,5,0.195,2,92,104.22,0.63,0.63,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_10_e2_402.lus,Safe,2,0.088,2,39,66.61,0.52,0.31,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_all_e2_2924_e7_3371.lus,Unsafe,,0.020,0,2,64.83,0.52,0.11,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1b_e3_671_e3_941.lus,Unsafe,0,0.045,1,9,97.34,0.53,0.17,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_11_e1_3457.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/DRAGON_2_e7_25_e2_5340.lus,Unsafe,,0.024,0,2,21.57,0.53,0.15,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_8_e2_1711_e7_1962.lus,Unsafe,,0.018,0,2,98.94,0.53,0.11,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_2_e7_25_e7_4469.lus,Unsafe,,0.024,0,2,22.05,0.52,0.14,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_7.lus,Safe,3,0.125,2,60,104.48,0.63,0.42,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all2_e3_4612_e1_6463.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/DRAGON_3_e1_4783.lus,Safe,1,0.069,2,27,57.55,0.52,0.26,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_rt.lus,Safe,10 8 5,0.558,4,583,107.69,1.04,1.67,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_3_e1_4783_e3_511.lus,Safe,1,0.071,2,27,58.06,0.52,0.26,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_10_e7_3861_e7_2180.lus,Unsafe,,0.023,0,2,57.45,0.52,0.14,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_13_e7_2336_e1_541.lus,Unsafe,,0.025,0,2,91.67,0.52,0.14,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_5_e7_2017_e1_5832.lus,Unsafe,0,0.100,1,23,103.64,0.64,0.36,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all_e2_6104_e1_6205.lus,Safe,4,0.161,2,71,105.82,0.63,0.54,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all_e2_6104.lus,Safe,5,0.189,2,86,105.32,0.74,0.62,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_2_e2_1375_e1_418.lus,Safe,11 9 5,0.557,4,599,108.23,1.05,1.67,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_9_e7_1843_e7_2225.lus,Safe,1,0.067,2,25,53.40,0.54,0.25,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_4_e2_2799_e3_1915.lus,Safe,45 39 32 21 11,7.151,6,4924,146.04,7.85,21.59,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_2_e1_2316.lus,Safe,1,0.064,2,22,66.71,0.53,0.24,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_3_e2_5343_e1_988.lus,Safe,1,0.076,2,27,88.21,0.52,0.27,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_3.lus,Safe,25 22 20 17 8,2.195,6,2011,120.59,2.62,6.52,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all_e7_1941_e2_6086.lus,Unsafe,,0.024,0,2,53.78,0.52,0.14,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_14_e7_3162.lus,Unsafe,14 8,0.628,2,316,108.61,1.15,1.93,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_10.lus,Safe,2,0.067,2,39,98.30,0.52,0.22,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_9.lus,Safe,1,0.049,2,27,99.79,0.52,0.17,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1b_e1_1139_e2_2893.lus,Safe,1,0.045,2,22,101.12,0.52,0.16,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all2_e7_5406_e1_6690.lus,Unsafe,,0.030,0,2,51.78,0.52,0.17,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_9.lus,Safe,1,0.066,2,25,67.74,0.54,0.25,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_rt_e1_913.lus,Unsafe,0,0.064,1,20,93.64,0.53,0.23,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_rt.lus,Safe,1,0.054,2,27,99.89,0.52,0.19,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_1_e1_1092_e3_389.lus,Unsafe,0,0.061,1,15,94.23,0.52,0.22,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1b_e3_671_e6_1974.lus,Safe,1,0.046,2,22,34.99,0.54,0.19,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all_e3_4821_e1_1318.lus,Safe,5,0.190,2,86,105.20,0.63,0.61,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_rt_e1_913_e1_1993.lus,Unsafe,0,0.067,1,20,93.64,0.52,0.23,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_3_e1_4783_e2_158.lus,Safe,1,0.076,2,27,44.95,0.52,0.27,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_11.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/DRAGON_5_e7_2017.lus,Unsafe,0,0.094,1,23,68.96,0.63,0.34,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_3_e1_4783_e7_4070.lus,Unsafe,,0.024,0,2,51.05,0.52,0.14,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_1_e1_14612_e2_2653_e7_4370.lus,Safe,2,0.104,2,41,66.28,0.64,0.36,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_14_e1_5710.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/DRAGON_all_e3_4821_e2_1089.lus,Safe,4,0.159,2,71,105.22,0.63,0.53,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_a3_e1_3233_e1_3123.lus,Unsafe,0,0.065,1,22,94.60,0.53,0.25,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_4_e7_2329_e7_3856.lus,Unsafe,4,0.215,1,69,105.48,0.73,0.70,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_all_e1_1207_e1_1201.lus,Unsafe,5,0.171,1,90,103.72,0.63,0.55,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_4_e2_2799.lus,Safe,31 26 17 7,4.065,5,3005,136.31,4.80,10.00,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_8.lus,Safe,1,0.047,2,26,20.27,0.53,0.18,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_all_e3_1600_e1_667.lus,Unsafe,0,0.069,1,18,99.35,0.53,0.25,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_10_e2_2785_e3_1744.lus,Safe,1,0.066,2,26,53.90,0.52,0.24,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_5_e7_2017_e7_2326.lus,Unsafe,2,0.174,1,53,104.29,0.63,0.58,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_2_e7_1826_e8_126.lus,Safe,10 8 5,0.477,4,526,105.80,0.95,1.44,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_a3.lus,Safe,4,0.114,2,73,103.24,0.63,0.38,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_12_e2_1618_e1_6030.lus,Safe,24 21 20 17 9,3.571,6,2509,130.23,4.09,10.84,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_12_e2_1618.lus,Safe,20 17 13 7,2.367,5,1648,123.23,2.83,7.13,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_7_e2_2872_e3_2640.lus,Safe,3,0.123,2,58,104.87,0.63,0.42,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_9_e7_1843_e2_1145.lus,Safe,2,0.095,2,41,104.90,0.63,0.33,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_8_e7_3752.lus,Safe,11 10 7 4,1.129,5,840,113.74,1.57,3.38,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_12_e2_1618_e3_2012.lus,Safe,6 2 0,1.547,4,1077,123.07,1.99,4.65,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_14_e7_3162_e7_3528.lus,Unsafe,18 11,0.833,2,460,111.15,1.36,2.55,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_11_e2_5396_e3_282.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/DRAGON_1.lus,Safe,2,0.092,2,43,104.90,0.63,0.33,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_8_e3_786_e7_4541.lus,Safe,7 6 4 1,1.014,4,628,113.72,1.46,2.99,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_5_e7_2017_e2_664.lus,Unsafe,0,0.097,1,23,68.46,0.63,0.35,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_10_e7_919_e2_3192.lus,Safe,1,0.046,2,25,94.32,0.52,0.17,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1b_e3_671_e1_725.lus,Unsafe,0,0.043,1,9,34.86,0.53,0.18,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_8_e2_1711.lus,Safe,1,0.049,2,24,20.52,0.53,0.18,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_2_e2_4481.lus,Safe,1,0.061,2,22,52.91,0.54,0.24,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_11_e3_382_e1_505.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/FIREFLY_1_e1_1092_e1_1486.lus,Unsafe,0,0.054,1,15,99.10,0.53,0.21,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all_e1_4037.lus,Safe,4,0.169,2,69,104.95,0.62,0.55,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_rt_e1_913_e7_1403.lus,Unsafe,,0.019,0,2,93.89,0.54,0.11,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_3_e3_5422_e1_2288.lus,Safe,1,0.073,2,27,67.03,0.52,0.27,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_11_e2_1678_e1_3565.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1b_e2_3049_e3_2697.lus,Unsafe,0,0.045,1,9,99.36,0.52,0.17,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1b_e3_671_e2_2131.lus,Unsafe,0,0.061,1,17,101.24,0.52,0.22,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_a3_e1_3233_e7_906.lus,Unsafe,,0.020,0,2,94.73,0.52,0.11,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_rt_e2_3460_e2_2670.lus,Unsafe,0,0.067,1,22,100.66,0.52,0.24,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all_e1_4022_e2_267.lus,Safe,5,0.193,2,90,104.70,0.63,0.64,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_a3_e2_2086_e7_2614.lus,Unsafe,,0.019,0,2,21.43,0.53,0.12,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all2_e3_4612_e2_5774.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/FIREFLY_3_e2_2236_e7_3681.lus,Safe,2,0.070,2,41,99.96,0.52,0.23,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_2_e7_25_e3_829.lus,Unsafe,,0.024,0,2,88.23,0.52,0.14,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_4.lus,Safe,1,0.054,2,27,101.54,0.52,0.19,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_1_e1_1092_e2_1853.lus,Safe,1,0.049,2,20,97.36,0.52,0.17,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_4_e3_3511_e1_2375.lus,Unsafe,10 4,0.761,2,532,111.14,1.25,2.31,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_2_e7_25_e1_154.lus,Unsafe,,0.024,0,2,54.16,0.52,0.14,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_1_e1_14612_e1_268_e7_501.lus,Safe,2,0.101,2,41,90.46,0.52,0.35,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all.lus,Safe,5,0.192,2,92,104.82,0.63,0.62,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1b_e3_671.lus,Unsafe,0,0.045,1,9,94.09,0.52,0.17,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_all_e3_1600_e5_84.lus,Unsafe,0,0.061,1,17,21.69,0.53,0.23,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_rt_e1_913_e2_3353.lus,Safe,1,0.055,2,27,99.52,0.52,0.19,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_a3_e2_2952.lus,Safe,4,0.120,2,73,101.52,0.63,0.39,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_1_e1_3184_e7_1888.lus,Safe,1,0.062,2,25,47.59,0.53,0.23,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1a_e2_284_e3_3091.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/FIREFLY_7.lus,Safe,68 54 39 18,25.685,5,10805,232.81,26.14,76.59,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_all_e3_3496.lus,Unsafe,5,0.178,1,90,103.60,0.64,0.57,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_14_e3_1259_e1_5798.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1b_e7_2574.lus,Unsafe,,0.019,0,2,94.35,0.52,0.11,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_5_e2_2884_e3_1882.lus,Safe,1,0.051,2,25,100.18,0.53,0.19,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_3.lus,Safe,1,0.073,2,27,66.82,0.52,0.27,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_11_e3_2076_e1_1270.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/DRAGON_4_e2_2799_e1_1303.lus,Safe,34 29 21 11,3.778,5,2802,132.34,4.29,11.34,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_1_e3_11891_e7_4569_e4_4881.lus,Safe,1,0.066,2,25,48.91,0.52,0.24,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_14.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/FIREFLY_3_e2_2236_e2_1058.lus,Safe,2,0.070,2,41,101.86,0.52,0.24,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_5_e2_2884_e7_3594.lus,Safe,1,0.052,2,25,99.57,0.54,0.18,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_2_e2_3183_e2_3580.lus,Safe,1,0.064,2,22,52.92,0.53,0.24,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_13_e7_2336_e7_685.lus,Unsafe,,0.024,0,2,58.08,0.52,0.14,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_2_e7_25.lus,Unsafe,,0.025,0,2,54.66,0.52,0.15,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_11_e1_2450_e7_5791.lus,Unsafe,,0.026,0,2,47.65,0.54,0.19,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_4_e3_3511_e2_1923.lus,Safe,3 2,0.132,3,101,103.16,0.63,0.42,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_2_e3_151_e3_1540.lus,Unsafe,0,0.063,1,22,92.34,0.53,0.23,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_5.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/DRAGON_all2_e3_4612_e4_3719.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/DRAGON_all2_e8_4626.lus,Unsafe,,0.028,0,2,29.15,0.54,0.18,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1b_e7_3191_e1_1303.lus,Unsafe,,0.019,0,2,100.61,0.52,0.11,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1b.lus,Safe,1,0.047,2,22,100.37,0.53,0.17,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_2.lus,Safe,1,0.064,2,22,66.03,0.63,0.25,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all2_e7_5406.lus,Unsafe,,0.028,0,2,56.77,0.53,0.17,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_a3_e3_314_e4_897.lus,Unsafe,14 6,1.155,2,800,112.77,1.57,3.42,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_all_e2_3678.lus,Unsafe,0,0.078,1,15,21.69,0.53,0.28,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_4_e2_2799_e2_2251.lus,Safe,29 24 17 8,3.001,5,2446,126.97,3.45,9.08,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_6.lus,Safe,10 8 5,0.467,4,513,106.05,0.94,1.41,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_all.lus,Safe,1 0,0.241,3,172,106.57,0.73,0.73,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_9_e7_1843.lus,Safe,2,0.107,2,39,104.87,0.63,0.36,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_8.lus,Safe,28 27 7 4,5.199,5,2335,141.49,5.76,15.77,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_10_e7_3861_e2_1020.lus,Unsafe,,0.023,0,2,53.00,0.52,0.14,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_6_e2_3302.lus,Safe,11 8 5,0.558,4,594,108.82,1.04,1.66,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_3_e1_4783_e1_3755.lus,Safe,1,0.072,2,25,67.21,0.52,0.27,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_all_e2_2924_e2_1767.lus,Unsafe,3,0.129,1,58,103.99,0.63,0.43,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all_e7_4065.lus,Unsafe,,0.024,0,2,51.55,0.52,0.14,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1a_e2_284_e7_998.lus,Unsafe,3 2,0.141,2,76,103.80,0.63,0.45,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_10_e3_3429.lus,Safe,1,0.061,2,24,49.96,0.52,0.23,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1b_e7_3191_e2_1864.lus,Unsafe,,0.019,0,2,100.59,0.52,0.11,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_13_e3_1418_e3_2761.lus,Timeout,6,0.237,1,92,988.91,302.26,1.67,1,true,base_x3
+FMCAD08/Int/memory1/DRAGON_10_e1_3587_e3_2749.lus,Safe,2,0.096,2,39,66.75,0.53,0.33,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_a3_e1_3233_e2_2392.lus,Safe,4,0.118,2,73,98.74,0.63,0.38,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_10_e3_144_e7_523.lus,Unsafe,,0.023,0,2,47.91,0.52,0.14,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_14_e3_5120.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/DRAGON_6.lus,Safe,1,0.067,2,25,20.16,0.52,0.24,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1b_e7_3191_e7_2146.lus,Unsafe,,0.019,0,2,64.35,0.52,0.10,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_3_e1_2217_e3_1200.lus,Safe,26 23 20 17 8,2.341,6,2185,121.15,2.82,6.97,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_rt_e2_3460_e7_471.lus,Unsafe,,0.020,0,2,94.39,0.52,0.11,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_11_e1_2450_e3_2330.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/DRAGON_5.lus,Safe,10 8 5,0.576,4,418,108.61,1.05,1.72,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_8_e2_1711_e2_2673.lus,Safe,1,0.047,2,24,93.12,0.53,0.17,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all2.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/DRAGON_11_e3_382_e4_4421.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/FIREFLY_all_e1_3406.lus,Unsafe,2,0.109,1,42,99.10,0.52,0.37,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_6_e7_5046_e7_3623.lus,Safe,1,0.065,2,25,53.78,0.52,0.24,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1b_e1_1139_e1_1565.lus,Unsafe,0,0.043,1,9,64.74,0.62,0.17,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1a_e2_284_e2_2755.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/FIREFLY_a3_e2_2086_e1_3235.lus,Safe,4,0.109,2,69,91.48,0.63,0.36,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_rt_e2_3460_e3_1333.lus,Unsafe,0,0.046,1,9,27.76,0.53,0.19,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all_e3_5957.lus,Safe,5,0.180,2,86,105.97,0.75,0.61,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_2_e2_3183_e1_2644.lus,Safe,1,0.066,2,22,56.79,0.52,0.24,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_12.lus,Safe,23 20 16 7,2.569,4,1805,123.84,3.03,7.70,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all2_e7_5406_e2_3084.lus,Unsafe,,0.030,0,2,66.06,0.53,0.18,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_9_e7_1843_e1_5434.lus,Safe,2,0.098,2,41,66.45,0.63,0.34,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_3_e2_2236.lus,Safe,1,0.046,2,25,91.83,0.52,0.17,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_14_e7_3162_e2_753.lus,Unsafe,20 12,0.939,2,599,112.72,1.47,2.93,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_4_e3_4133.lus,Safe,26 21 15 7,3.061,5,2315,125.68,3.66,9.53,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_11_e1_2450_e1_5887.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/DRAGON_14_e2_3606.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/FIREFLY_a3_e1_3233_e3_2970.lus,Safe,4,0.116,2,73,103.48,0.64,0.38,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_a3_e3_314_e2_2812.lus,Safe,1 0,0.204,3,157,103.35,0.63,0.62,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all_e3_4821_e5_1536.lus,Safe,4,0.161,2,71,105.05,0.63,0.53,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_4.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/DRAGON_11.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/FIREFLY_all_e1_1207_e2_3220.lus,Safe,1 0,0.246,3,170,106.11,0.73,0.74,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_4_e2_325.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/DRAGON_8_e2_3896_e3_3125.lus,Safe,12 11 2 1,1.595,4,868,116.85,1.99,4.73,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_3_e7_4884.lus,Unsafe,,0.024,0,2,57.04,0.52,0.14,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1b_e1_1139_e3_1839.lus,Unsafe,0,0.061,1,17,94.11,0.53,0.22,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_4_e3_3511_e3_422.lus,Safe,3 2,0.133,3,106,104.02,0.63,0.42,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_8_e2_1711_e1_1489.lus,Safe,1,0.046,2,24,57.00,0.53,0.17,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all_e1_4022_e7_2886.lus,Unsafe,,0.026,0,2,21.89,0.52,0.15,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_all_e3_1600_e4_2415.lus,Unsafe,1,0.089,1,31,90.54,0.53,0.31,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_5.lus,Safe,2,0.074,2,41,98.56,0.52,0.25,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_1.lus,Safe,1,0.048,2,20,100.12,0.52,0.17,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_4_e3_3511_e7_3568.lus,Unsafe,,0.019,0,2,21.79,0.52,0.11,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_5_e2_2229.lus,Safe,1,0.049,2,25,100.61,0.54,0.18,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all2_e3_4612_e5_3642.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/DRAGON_5_e2_3018_e2_936.lus,Safe,9 7 4,0.507,4,385,108.59,1.05,1.55,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_2.lus,Safe,10 8 5,0.473,4,527,106.80,0.95,1.43,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_all_e1_1207_e3_1928.lus,Unsafe,1,0.081,1,27,89.16,0.52,0.29,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_all_e1_1207_e7_156.lus,Unsafe,,0.020,0,2,98.97,0.52,0.11,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_9_e7_1843_e3_5316.lus,Safe,1,0.069,2,25,55.41,0.52,0.25,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_4_e3_3511_e5_3248.lus,Safe,3 2,0.132,3,101,103.91,0.63,0.41,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_1_e1_1092_e7_1119.lus,Unsafe,,0.019,0,2,94.10,0.52,0.11,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_a3_e2_2086_e2_2689.lus,Safe,4,0.119,2,73,99.36,0.63,0.38,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_14_e7_3162_e1_3998.lus,Unsafe,13 5,0.832,2,494,112.74,1.36,2.54,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_12_e2_1618_e2_138.lus,Safe,24 20 18 15 8,3.509,6,2582,131.08,3.97,10.62,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_12_e1_4640_e7_128.lus,Unsafe,,0.024,0,2,49.55,0.52,0.14,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all2_e8_5504_e7_579.lus,Unsafe,,0.032,0,2,65.40,0.52,0.18,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_5_e1_1835.lus,Safe,9 7 4,0.522,4,398,108.35,1.04,1.59,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_u1_e7_3318.lus,Unsafe,0,0.059,1,15,94.21,0.52,0.22,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_13_e7_2336.lus,Unsafe,,0.024,0,2,21.72,0.52,0.14,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_11_e1_2450_e2_1483.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/DRAGON_5_e7_2017_e3_1763.lus,Unsafe,2,0.160,1,42,104.35,0.63,0.53,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_12_e2_1618_e7_4732.lus,Unsafe,,0.024,0,2,52.60,0.52,0.14,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_rt_e1_913_e3_2128.lus,Unsafe,0,0.068,1,22,98.89,0.52,0.24,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_4_e3_3511.lus,Safe,2,0.079,2,43,99.66,0.52,0.26,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_2_e2_3183_e3_5972.lus,Safe,1,0.066,2,22,53.66,0.52,0.24,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_11_e1_2450.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/DRAGON_4_e7_2329_e3_4574.lus,Unsafe,0,0.072,1,9,58.45,0.52,0.27,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_rt_e2_3460_e1_1455.lus,Safe,1,0.055,2,27,99.64,0.52,0.19,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_4_e2_2799_e7_2499.lus,Unsafe,4,0.217,1,66,105.98,0.75,0.71,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_13.lus,Safe,17 12 9 7 5 4 3 2 1 0,32.740,11,15877,236.56,33.38,97.85,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1b_e3_671_e4_147.lus,Unsafe,0,0.043,1,9,97.75,0.52,0.17,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_13_e7_2336_e2_1255.lus,Unsafe,,0.034,0,2,67.61,0.63,0.23,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_rt_e2_3460.lus,Unsafe,0,0.063,1,22,103.39,0.63,0.22,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_9_e7_170_e3_3647.lus,Safe,1,0.052,2,27,91.40,0.53,0.19,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all2_e3_4612_e8_5861.lus,Unsafe,,0.030,0,2,65.52,0.52,0.17,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all_e1_4022_e3_3628.lus,Safe,4,0.170,2,67,104.70,0.63,0.56,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all2_e7_5406_e3_506.lus,Unsafe,,0.028,0,2,52.52,0.52,0.17,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_all_e2_2924_e1_768.lus,Safe,5,0.138,2,85,103.72,0.63,0.45,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_8_e2_1711_e3_1753.lus,Safe,1,0.047,2,24,34.24,0.54,0.19,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_1_e2_1997.lus,Safe,2,0.089,2,43,104.86,0.63,0.32,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_4_e3_3511_e4_1464.lus,Unsafe,10 4,0.648,2,473,110.36,1.15,1.97,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_7_e2_2872_e2_5844.lus,Safe,3,0.122,2,58,104.58,0.63,0.41,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_1_e1_5070.lus,Safe,1,0.061,2,25,51.05,0.52,0.23,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_10_e3_144_e5_2046.lus,Safe,2,0.093,2,39,66.73,0.52,0.33,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_all_e3_1600_e2_676.lus,Unsafe,0,0.048,1,9,100.23,0.52,0.18,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all2_e2_2073_e8_3691.lus,Unsafe,,0.031,0,2,53.78,0.52,0.17,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_4_e3_1540_e1_5048.lus,Safe,26 22 16 9,2.732,5,2232,125.68,3.24,8.20,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_13_e7_2336_e3_3117.lus,Unsafe,,0.024,0,2,21.91,0.52,0.14,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_a3_e3_314_e1_1979.lus,Unsafe,9 4,0.784,2,510,110.91,1.25,2.37,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_u1_e2_3403_e2_957.lus,Safe,19 15 11 7,2.087,5,1847,119.07,2.51,6.04,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1a.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/FIREFLY_rt_e3_1770_e2_637.lus,Safe,10 8 5,0.616,4,602,109.35,1.05,1.85,0,false,base_x3
+FMCAD08/Int/memory1/DRAGON_14_e7_3162_e3_4298.lus,Unsafe,13 8,0.689,2,346,107.60,1.05,2.02,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_1_e2_1997_e7_3613_e2_3409.lus,Safe,1,0.066,2,25,52.17,0.52,0.25,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1b_e3_671_e7_1882.lus,Unsafe,,0.019,0,2,64.35,0.54,0.11,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_all2_e3_4612_e3_1543.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory1/DRAGON_7_e7_3157_e2_2082.lus,Safe,3,0.137,2,60,104.38,0.63,0.45,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1b_e1_1691.lus,Unsafe,0,0.044,1,9,93.97,0.52,0.17,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_all_e2_2924_e3_3946.lus,Unsafe,2,0.102,1,42,102.97,0.63,0.35,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1b_e2_3049_e2_698.lus,Unsafe,0,0.046,1,9,34.74,0.52,0.20,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_5_e2_2884_e2_1492.lus,Safe,2,0.071,2,41,93.34,0.52,0.24,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1a_e7_3042_e3_1213.lus,Timeout,42 41 40 39 38 37 36 35 34 33 32,207.489,11,28915,638.49,302.26,1.68,1,true,base_x3
+FMCAD08/Int/memory1/DRAGON_3_e3_3846.lus,Safe,1,0.075,2,25,51.29,0.52,0.27,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_5_e1_2552_e7_1169.lus,Safe,1,0.050,2,25,101.22,0.52,0.18,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_3_e2_2236_e1_2305.lus,Safe,1,0.050,2,25,94.20,0.54,0.18,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_all_e3_1600_e3_2055.lus,Unsafe,0,0.077,1,18,91.22,0.52,0.27,40,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_luke_1b_e2_3049_e1_946.lus,Safe,1,0.046,2,22,20.15,0.53,0.17,0,false,base_x3
+FMCAD08/Int/memory1/FIREFLY_1_e1_1092.lus,Unsafe,0,0.057,1,15,100.60,0.52,0.21,40,false,base_x3
+FMCAD08/Int/memory1/DRAGON_10.lus,Safe,2,0.091,2,39,65.62,0.63,0.32,0,false,base_x3
+FMCAD08/Int/simulation/metros_4_e1_917.lus,Timeout,28 25 21 17 15 13 11 9 7 5 3 2,84.174,12,21187,641.03,302.27,1.68,1,true,base_x3
+FMCAD08/Int/simulation/metros_1_e1_846_e2_1394.lus,Safe,7 4 2,1.048,4,1003,114.18,1.46,3.07,0,false,base_x3
+FMCAD08/Int/simulation/car_4_e7_592_e7_265.lus,Safe,2,0.045,2,34,100.58,0.52,0.15,0,false,base_x3
+FMCAD08/Int/simulation/car_all_e8_856.lus,Safe,5 2,0.310,3,355,105.20,0.73,0.91,0,false,base_x3
+FMCAD08/Int/simulation/PRODUCER_CONSUMER_all.lus,Safe,2,0.054,2,41,20.13,0.52,0.18,0,false,base_x3
+FMCAD08/Int/simulation/car_4_e3_57_e6_784.lus,Safe,2,0.047,2,39,101.31,0.52,0.15,0,false,base_x3
+FMCAD08/Int/simulation/metros_2_e1_190.lus,Safe,17 12 10 8 7 6 5 4 3 2 1 0,75.133,13,26135,341.60,75.87,181.10,0,false,base_x3
+FMCAD08/Int/simulation/metros_4_e3_1025.lus,Timeout,19 16 14 10 5,8.984,5,5499,759.50,302.27,1.66,1,true,base_x3
+FMCAD08/Int/simulation/car_3_e8_33_e1_856.lus,Unsafe,0,0.026,1,9,100.66,0.53,0.10,40,false,base_x3
+FMCAD08/Int/simulation/car_5_e7_244_e2_693.lus,Unsafe,8 1,0.514,2,373,106.27,0.96,1.55,40,false,base_x3
+FMCAD08/Int/simulation/metros_4_e2_968_e5_991.lus,Unsafe,7 5 3 2,1.097,4,1068,450.70,124.72,209.16,40,false,base_x3
+FMCAD08/Int/simulation/PRODUCER_CONSUMER_3.lus,Safe,1,0.035,2,22,100.47,0.52,0.12,0,false,base_x3
+FMCAD08/Int/simulation/metros_1_e1_846_e1_1317.lus,Safe,13 11,0.527,3,448,108.49,0.94,1.57,0,false,base_x3
+FMCAD08/Int/simulation/car_all_e3_1068_e4_275.lus,Safe,3 1,0.217,3,242,102.00,0.74,0.64,0,false,base_x3
+FMCAD08/Int/simulation/PRODUCER_CONSUMER_vt_e7_1059_e8_1111.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/simulation/metros_4_e1_821_e5_911.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/simulation/car_3_e7_626.lus,Safe,2 1,0.085,3,99,99.95,0.53,0.26,0,false,base_x3
+FMCAD08/Int/simulation/PRODUCER_CONSUMER_vt.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/simulation/metros_4.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/simulation/car_2_e8_491_e7_826.lus,Safe,3 2,0.081,3,95,100.16,0.52,0.25,0,false,base_x3
+FMCAD08/Int/simulation/car_all.lus,Safe,4 1,0.283,3,323,105.34,0.74,0.83,0,false,base_x3
+FMCAD08/Int/simulation/car_all_e8_856_e3_180.lus,Unsafe,,0.013,0,2,60.39,0.52,0.07,40,false,base_x3
+FMCAD08/Int/simulation/metros_3.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/simulation/car_5_e2_405_e8_1055.lus,Unsafe,8 1,0.553,2,391,106.68,1.05,1.66,40,false,base_x3
+FMCAD08/Int/simulation/metros_1_e8_725_e3_556.lus,Safe,1 0,0.166,3,151,103.00,0.63,0.50,0,false,base_x3
+FMCAD08/Int/simulation/metros_4_e3_1091_e3_522.lus,Safe,10 7,0.386,3,354,107.23,0.85,1.16,0,false,base_x3
+FMCAD08/Int/simulation/metros_2_e2_704_e7_810.lus,Unsafe,20 9 3,3.267,3,1880,136.47,3.77,9.80,40,false,base_x3
+FMCAD08/Int/simulation/metros_4_e2_968_e6_236.lus,Unsafe,26 0,16.015,2,3512,187.26,16.75,32.43,40,false,base_x3
+FMCAD08/Int/simulation/metros_2_e1_1116_e1_556.lus,Unsafe,15 11 6 4 3 2 0,17.751,7,8460,203.18,18.54,53.30,40,false,base_x3
+FMCAD08/Int/simulation/metros_2_e2_704_e1_389.lus,Unsafe,25 12 6,5.204,3,2360,142.18,5.55,15.37,40,false,base_x3
+FMCAD08/Int/simulation/car_6_e2_589_e2_506.lus,Unsafe,11 2,0.629,2,459,107.41,1.05,1.89,40,false,base_x3
+FMCAD08/Int/simulation/speed_e7_207.lus,Safe,0,0.025,2,12,93.60,0.54,0.09,0,false,base_x3
+FMCAD08/Int/simulation/metros_3_e3_1275_e1_1350.lus,Unsafe,59 56 52 47 41 34 27 22 17 11 4,61.177,11,20224,308.99,61.64,182.22,40,false,base_x3
+FMCAD08/Int/simulation/metros_1_e1_846_e7_397.lus,Safe,4 1 0,1.174,4,1087,117.25,1.67,3.48,0,false,base_x3
+FMCAD08/Int/simulation/metros_2_e2_968.lus,Unsafe,19 14 12 11 10 9 8 7 6 5,36.686,11,15063,249.07,37.37,90.38,40,false,base_x3
+FMCAD08/Int/simulation/cd_e7_621_e7_669.lus,Unsafe,11 2,0.440,2,430,104.79,0.94,1.33,40,false,base_x3
+FMCAD08/Int/simulation/car_all_e3_1068_e3_163.lus,Unsafe,,0.015,0,2,60.32,0.52,0.08,40,false,base_x3
+FMCAD08/Int/simulation/metros_2_e2_704_e2_13.lus,Safe,6 5 2,0.921,4,920,111.34,1.36,2.74,0,false,base_x3
+FMCAD08/Int/simulation/metros_4_e5_1150.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/simulation/hysteresis_1.lus,Safe,0,0.026,2,12,95.07,0.52,0.08,0,false,base_x3
+FMCAD08/Int/simulation/metros_1_e7_606.lus,Safe,9 7 5,0.912,4,821,112.42,1.36,2.70,0,false,base_x3
+FMCAD08/Int/simulation/hysteresis_3.lus,Safe,3 2,0.119,3,129,99.82,0.52,0.35,0,false,base_x3
+FMCAD08/Int/simulation/fast_1_e8_751.lus,Safe,2 1,0.205,3,189,102.38,0.63,0.61,0,false,base_x3
+FMCAD08/Int/simulation/metros_3_e3_1275_e7_529.lus,Timeout,8 4 2,1.040,3,951,835.36,302.27,1.65,1,true,base_x3
+FMCAD08/Int/simulation/PRODUCER_CONSUMER_vt_e3_507.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/simulation/car_3_e2_695.lus,Safe,1,0.035,2,27,100.16,0.52,0.12,0,false,base_x3
+FMCAD08/Int/simulation/car_5_e2_405_e2_1083.lus,Unsafe,8 1,0.559,2,391,107.18,1.04,1.68,40,false,base_x3
+FMCAD08/Int/simulation/fast_1.lus,Safe,2 1,0.207,3,193,101.64,0.63,0.62,0,false,base_x3
+FMCAD08/Int/simulation/car_6_e2_589_e3_349.lus,Unsafe,10 1,0.590,2,454,108.98,1.04,1.77,40,false,base_x3
+FMCAD08/Int/simulation/fast_2.lus,Safe,2 1,0.327,3,277,106.93,0.83,0.97,0,false,base_x3
+FMCAD08/Int/simulation/fast_1_e8_747_e7_692.lus,Unsafe,,0.024,0,2,91.00,0.52,0.11,40,false,base_x3
+FMCAD08/Int/simulation/metros_1_e2_627.lus,Safe,2 1 0,0.833,4,742,112.33,1.25,2.46,0,false,base_x3
+FMCAD08/Int/simulation/metros_2_e2_704_e3_76.lus,Unsafe,11 6 2,1.863,3,1199,123.14,2.30,5.52,40,false,base_x3
+FMCAD08/Int/simulation/speed_e8_649.lus,Safe,0,0.026,2,12,94.93,0.52,0.08,0,false,base_x3
+FMCAD08/Int/simulation/speed2.lus,Safe,4 3,0.130,3,138,99.68,0.63,0.38,0,false,base_x3
+FMCAD08/Int/simulation/car_3_e8_33_e2_1010.lus,Safe,1,0.038,2,27,99.18,0.53,0.14,0,false,base_x3
+FMCAD08/Int/simulation/metros_3_e4_987_e2_80.lus,Timeout,39 37 35 30 26 22 20 19 18 16 15,298.730,11,41502,610.65,300.21,219.81,30,true,base_x3
+FMCAD08/Int/simulation/car_4_e8_118_e3_514.lus,Unsafe,,0.012,0,2,60.41,0.43,0.07,40,false,base_x3
+FMCAD08/Int/simulation/fast_1_e7_2044.lus,Unsafe,,0.023,0,2,64.13,0.53,0.11,40,false,base_x3
+FMCAD08/Int/simulation/metros_4_e2_968.lus,Timeout,5 3 1,0.472,3,463,719.43,300.21,262.00,30,true,base_x3
+FMCAD08/Int/simulation/metros_2.lus,Safe,17 14 11 9 8 7 6 5 4 3 2 0,142.150,12,36311,473.37,155.98,354.94,0,false,base_x3
+FMCAD08/Int/simulation/car_6_e3_294_e5_979.lus,Unsafe,17 4,1.314,2,853,115.52,1.78,3.94,40,false,base_x3
+FMCAD08/Int/simulation/metros_3_e3_1275_e5_846.lus,Timeout,"30 27 25 23 21 18 17 16 15 14 13 12
+                                            11 10 9",281.481,15,35493,632.16,300.28,231.87,30,true,base_x3
+FMCAD08/Int/simulation/metros_5.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/simulation/speed2_e8_449_e8_517.lus,Safe,5 3,0.142,3,145,102.80,0.63,0.42,0,false,base_x3
+FMCAD08/Int/simulation/speed2_e7_223_e8_329.lus,Safe,4 3,0.118,3,138,100.35,0.63,0.35,0,false,base_x3
+FMCAD08/Int/simulation/PRODUCER_CONSUMMER_luke_2_e7_1068_e8_1019.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/simulation/fast_2_e8_460_e8_1920.lus,Safe,1 0,0.270,3,239,104.99,0.73,0.81,0,false,base_x3
+FMCAD08/Int/simulation/speed_e7_207_e7_538.lus,Safe,0,0.026,2,12,94.94,0.52,0.08,0,false,base_x3
+FMCAD08/Int/simulation/metros_3_e3_1275_e2_454.lus,Safe,5 3,0.202,3,173,103.86,0.63,0.61,0,false,base_x3
+FMCAD08/Int/simulation/fast_2_e7_2526.lus,Unsafe,,0.027,0,2,90.80,0.53,0.13,40,false,base_x3
+FMCAD08/Int/simulation/metros_4_e3_1091_e2_1317.lus,Safe,5 3,0.217,3,173,104.12,0.63,0.65,0,false,base_x3
+FMCAD08/Int/simulation/fast_2_e7_2526_e7_2736.lus,Unsafe,,0.028,0,2,91.80,0.54,0.14,40,false,base_x3
+FMCAD08/Int/simulation/metros_4_e2_968_e7_860.lus,Unsafe,9 6 4 3 2,4.475,5,3518,459.61,122.06,200.13,40,false,base_x3
+FMCAD08/Int/simulation/car_4_e7_592_e3_442.lus,Unsafe,,0.012,0,2,59.66,0.52,0.07,40,false,base_x3
+FMCAD08/Int/simulation/car_5_e7_244.lus,Safe,48 46 42 40 38 36 34 31 30 25 17 9,71.657,13,26540,311.43,72.13,213.52,0,false,base_x3
+FMCAD08/Int/simulation/fast_1_e8_747_e8_1041.lus,Safe,2 1,0.185,3,171,102.40,0.63,0.55,0,false,base_x3
+FMCAD08/Int/simulation/speed2_e8_449.lus,Safe,1 0,0.075,3,86,101.31,0.52,0.22,0,false,base_x3
+FMCAD08/Int/simulation/car_4_e3_57.lus,Unsafe,,0.013,0,2,60.41,0.53,0.08,40,false,base_x3
+FMCAD08/Int/simulation/metros_1_e8_725_e1_919.lus,Safe,1,0.050,2,23,101.92,0.52,0.17,0,false,base_x3
+FMCAD08/Int/simulation/car_all_e1_618.lus,Unsafe,3,0.084,1,61,95.07,0.53,0.28,40,false,base_x3
+FMCAD08/Int/simulation/car_1.lus,Safe,2,0.049,2,39,101.06,0.52,0.16,0,false,base_x3
+FMCAD08/Int/simulation/metros_3_e3_1275_e4_164.lus,Timeout,"21 19 18 17 16 15 14 13 12 11 10 9
+                                            8 7",292.926,14,41298,672.00,302.26,1.70,1,true,base_x3
+FMCAD08/Int/simulation/fast_2_e8_976.lus,Safe,2 1,0.331,3,273,104.18,0.73,0.98,0,false,base_x3
+FMCAD08/Int/simulation/Gas.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/simulation/car_4_e7_592.lus,Safe,1 0,0.093,3,104,100.41,0.52,0.27,0,false,base_x3
+FMCAD08/Int/simulation/metros_4_e3_1091_e1_1044.lus,Unsafe,22 19 14 12 8 6 3,27.836,7,8957,309.95,67.29,119.46,40,false,base_x3
+FMCAD08/Int/simulation/metros_1_e2_1102_e7_1163.lus,Safe,9 7 5,1.005,4,871,113.39,1.47,2.99,0,false,base_x3
+FMCAD08/Int/simulation/cd.lus,Safe,39 36 34 32 29 25 19 10,12.191,9,9561,168.30,12.57,36.26,0,false,base_x3
+FMCAD08/Int/simulation/metros_2_e1_1116_e7_1440.lus,Unsafe,25 13 4,6.014,3,2737,150.33,6.80,15.33,40,false,base_x3
+FMCAD08/Int/simulation/PRODUCER_CONSUMER_1.lus,Safe,2,0.060,2,49,100.59,0.52,0.20,0,false,base_x3
+FMCAD08/Int/simulation/metros_4_e2_968_e4_801.lus,Unsafe,7 5 3 2,1.166,4,1073,412.44,94.40,164.38,40,false,base_x3
+FMCAD08/Int/simulation/car_6.lus,Safe,31 29 25 23 20 17 15 13 10 7 6 5 2,102.290,13,30510,341.05,129.78,385.47,0,false,base_x3
+FMCAD08/Int/simulation/car_all_e3_1068_e1_178.lus,Unsafe,,0.014,0,2,59.43,0.52,0.07,40,false,base_x3
+FMCAD08/Int/simulation/metros_1_e2_1102_e3_961.lus,Safe,14 12,0.545,3,483,107.29,1.04,1.63,0,false,base_x3
+FMCAD08/Int/simulation/car_3_e1_586.lus,Unsafe,0,0.033,1,9,100.16,0.52,0.13,40,false,base_x3
+FMCAD08/Int/simulation/metros_3_e4_987_e1_1115.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/simulation/metros_1.lus,Safe,8 5 4 2,1.670,5,1569,117.87,2.09,4.96,0,false,base_x3
+FMCAD08/Int/simulation/speed2_e8_449_e7_353.lus,Safe,1 0,0.097,3,108,100.33,0.53,0.29,0,false,base_x3
+FMCAD08/Int/simulation/metros_1_e1_846_e3_1060.lus,Safe,9 7 5,0.700,4,664,110.43,1.16,2.17,0,false,base_x3
+FMCAD08/Int/simulation/metros_2_e1_1116_e2_617.lus,Safe,8 6 2,1.118,4,1047,112.82,1.57,3.28,0,false,base_x3
+FMCAD08/Int/simulation/car_5_e3_661.lus,Unsafe,8 1,0.739,2,447,108.75,1.16,2.23,40,false,base_x3
+FMCAD08/Int/simulation/car_3_e8_33_e7_220.lus,Safe,2 1,0.078,3,93,99.46,0.52,0.24,0,false,base_x3
+FMCAD08/Int/simulation/car_5_e2_405_e3_473.lus,Unsafe,8 1,0.556,2,391,106.05,1.05,1.67,40,false,base_x3
+FMCAD08/Int/simulation/car_6_e3_294_e3_47.lus,Unsafe,13 3,0.825,2,576,108.28,1.26,2.48,40,false,base_x3
+FMCAD08/Int/simulation/car_all_e3_1068_e2_13.lus,Unsafe,,0.015,0,2,60.20,0.52,0.08,40,false,base_x3
+FMCAD08/Int/simulation/metros_1_e8_725_e2_1144.lus,Safe,1,0.050,2,23,100.79,0.52,0.17,0,false,base_x3
+FMCAD08/Int/simulation/metros_1_e7_1255_e7_12.lus,Safe,14 12 9,0.992,4,930,112.86,1.47,2.95,0,false,base_x3
+FMCAD08/Int/simulation/car_6_e1_152.lus,Safe,16 15 12 10 8 6 5 2,7.223,9,6212,150.68,7.65,21.51,0,false,base_x3
+FMCAD08/Int/simulation/PRODUCER_CONSUMER_vt_e2_1352.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/simulation/car_5_e7_244_e1_823.lus,Safe,"31 29 27 25 22 21 19 16 15 11 10 6
+                                            5 2",65.905,15,27923,305.16,66.28,195.71,0,false,base_x3
+FMCAD08/Int/simulation/car_all_e3_1068_e5_882.lus,Unsafe,,0.016,0,2,61.07,0.52,0.08,40,false,base_x3
+FMCAD08/Int/simulation/metros_4_e2_968_e2_1166.lus,Safe,8 6,0.291,3,279,105.10,0.73,0.87,0,false,base_x3
+FMCAD08/Int/simulation/cd_e7_8.lus,Unsafe,11 6 3 1,0.637,4,703,109.24,1.05,1.89,40,false,base_x3
+FMCAD08/Int/simulation/car_all_e8_856_e2_585.lus,Safe,2 1,0.151,3,164,102.50,0.63,0.45,0,false,base_x3
+FMCAD08/Int/simulation/car_6_e2_893.lus,Unsafe,11 2,0.588,2,449,108.18,1.05,1.78,40,false,base_x3
+FMCAD08/Int/simulation/PRODUCER_CONSUMMER_luke_2.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/simulation/metros_1_e8_725.lus,Safe,1,0.067,2,23,95.60,0.53,0.22,0,false,base_x3
+FMCAD08/Int/simulation/car_all_e8_856_e1_217.lus,Unsafe,5,0.116,1,89,101.07,0.52,0.36,40,false,base_x3
+FMCAD08/Int/simulation/speed2_e7_223_e7_213.lus,Safe,4 3,0.124,3,140,100.33,0.64,0.37,0,false,base_x3
+FMCAD08/Int/simulation/car_2.lus,Safe,2 1,0.085,3,98,101.04,0.52,0.26,0,false,base_x3
+FMCAD08/Int/simulation/metros_1_e2_1102_e2_943.lus,Safe,13 11,0.529,3,471,106.80,0.94,1.58,0,false,base_x3
+FMCAD08/Int/simulation/metros_3_e3_1275_e6_1315.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/simulation/car_6_e1_152_e1_391.lus,Safe,15 14 12 9 8 6 5 2,5.491,9,5417,138.98,5.98,16.27,0,false,base_x3
+FMCAD08/Int/simulation/fast_1_e7_2044_e7_1287.lus,Unsafe,,0.023,0,2,99.38,0.52,0.11,40,false,base_x3
+FMCAD08/Int/simulation/metros_4_e3_1091_e4_232.lus,Unsafe,5 3 1,0.483,3,463,593.19,222.92,520.36,40,false,base_x3
+FMCAD08/Int/simulation/car_3.lus,Safe,2 1,0.094,3,105,99.41,0.52,0.29,0,false,base_x3
+FMCAD08/Int/simulation/car_5.lus,Safe,49 47 44 42 40 37 34 33 28 22 14 8,87.445,13,27645,316.71,88.14,261.14,0,false,base_x3
+FMCAD08/Int/simulation/PRODUCER_CONSUMER_2.lus,Safe,1,0.041,2,28,100.18,0.52,0.13,0,false,base_x3
+FMCAD08/Int/simulation/speed_e7_207_e8_507.lus,Safe,0,0.024,2,12,59.52,0.52,0.07,0,false,base_x3
+FMCAD08/Int/simulation/metros_4_e2_968_e1_956.lus,Unsafe,5 2 1,0.804,3,709,269.98,45.96,110.14,40,false,base_x3
+FMCAD08/Int/simulation/hysteresis_all.lus,Safe,2 0,0.145,3,169,102.20,0.63,0.43,0,false,base_x3
+FMCAD08/Int/simulation/metros_2_e3_112.lus,Unsafe,27 22 18 16,47.431,4,13178,285.17,50.95,98.42,40,false,base_x3
+FMCAD08/Int/simulation/car_4.lus,Safe,2,0.047,2,39,100.54,0.52,0.16,0,false,base_x3
+FMCAD08/Int/simulation/hysteresis_2.lus,Safe,4 3,0.142,3,152,102.32,0.63,0.43,0,false,base_x3
+FMCAD08/Int/simulation/car_all_e7_188_e7_743.lus,Safe,5 1,0.282,3,344,105.45,0.73,0.84,0,false,base_x3
+FMCAD08/Int/simulation/fast_2_e8_460_e7_43.lus,Unsafe,,0.036,0,2,91.05,0.52,0.15,40,false,base_x3
+FMCAD08/Int/simulation/car_1_e7_184_e3_299.lus,Safe,2,0.048,2,39,100.74,0.52,0.16,0,false,base_x3
+FMCAD08/Int/simulation/car_4_e8_118.lus,Safe,1,0.034,2,25,100.66,0.52,0.12,0,false,base_x3
+FMCAD08/Int/simulation/metros_3_e4_987_e3_291.lus,Unsafe,7 4 3,0.853,3,794,595.39,210.47,343.48,40,false,base_x3
+FMCAD08/Int/simulation/car_2_e7_1027_e7_359.lus,Safe,2 1,0.092,3,98,101.16,0.53,0.28,0,false,base_x3
+FMCAD08/Int/simulation/metros_3_e4_987.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/simulation/car_5_e3_11_e1_429.lus,Unsafe,8 1,0.710,2,447,109.66,1.16,2.15,40,false,base_x3
+FMCAD08/Int/simulation/car_all_e1_618_e3_303.lus,Unsafe,2,0.070,1,47,94.96,0.53,0.24,40,false,base_x3
+FMCAD08/Int/simulation/speed2_e7_496.lus,Safe,4 3,0.135,3,163,101.68,0.65,0.40,0,false,base_x3
+FMCAD08/Int/simulation/car_4_e3_57_e5_999.lus,Unsafe,,0.014,0,2,60.79,0.55,0.09,40,false,base_x3
+FMCAD08/Int/simulation/car_2_e7_1027_e1_1047.lus,Safe,2 1,0.082,3,97,100.01,0.54,0.26,0,false,base_x3
+FMCAD08/Int/simulation/metros_1_e2_1102_e1_317.lus,Safe,8 6 3,0.992,4,938,114.17,1.46,2.93,0,false,base_x3
+FMCAD08/Int/simulation/metros_2_e1_1116_e3_287.lus,Unsafe,14 4,1.652,2,868,120.63,2.19,5.01,40,false,base_x3
+FMCAD08/Int/simulation/metros_4_e2_968_e3_931.lus,Safe,8 6,0.258,3,219,105.48,0.73,0.78,0,false,base_x3
+FMCAD08/Int/simulation/car_4_e8_118_e7_178.lus,Safe,1 0,0.095,3,107,100.38,0.52,0.28,0,false,base_x3
+FMCAD08/Int/simulation/car_5_e7_244_e3_1071.lus,Unsafe,8 1,0.664,2,429,108.78,1.15,2.00,40,false,base_x3
+FMCAD08/Int/simulation/speed_e8_649_e7_709.lus,Safe,0,0.026,2,12,94.93,0.52,0.08,0,false,base_x3
+FMCAD08/Int/simulation/car_all_e8_856_e7_578.lus,Safe,5 2,0.276,3,317,104.20,0.74,0.82,0,false,base_x3
+FMCAD08/Int/simulation/metros_3_e3_1275_e3_640.lus,Safe,10 7,0.374,3,354,105.99,0.84,1.13,0,false,base_x3
+FMCAD08/Int/simulation/car_all_e2_142_e7_209.lus,Safe,3 1,0.215,3,234,102.20,0.74,0.64,0,false,base_x3
+FMCAD08/Int/simulation/car_3_e8_33.lus,Safe,2 1,0.085,3,100,101.11,0.52,0.26,0,false,base_x3
+FMCAD08/Int/simulation/car_5_e3_11_e5_24.lus,Unsafe,8 1,0.688,2,447,109.89,1.16,2.07,40,false,base_x3
+FMCAD08/Int/simulation/car_4_e3_57_e4_1047.lus,Safe,1,0.035,2,25,100.41,0.52,0.12,0,false,base_x3
+FMCAD08/Int/simulation/car_all_e2_142.lus,Safe,3 1,0.218,3,242,101.82,0.63,0.64,0,false,base_x3
+FMCAD08/Int/simulation/metros_3_e3_1275.lus,Timeout,7 3 2,0.918,3,838,900.58,302.28,1.65,1,true,base_x3
+FMCAD08/Int/simulation/PRODUCER_CONSUMMER_luke_1.lus,Unsafe,,0.013,0,2,60.00,0.43,0.07,40,false,base_x3
+FMCAD08/Int/simulation/car_6_e3_294_e1_956.lus,Unsafe,10 1,0.695,2,492,109.65,1.15,2.08,40,false,base_x3
+FMCAD08/Int/simulation/car_3_e7_626_e1_305.lus,Unsafe,0,0.027,1,9,101.02,0.52,0.11,40,false,base_x3
+FMCAD08/Int/simulation/metros_5_e4_1208_e1_337.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/simulation/car_all_e3_1068.lus,Unsafe,,0.013,0,2,60.70,0.54,0.08,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_5_e2_1525.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory2/MOESI_2_e3_929_e2_2421.lus,Unsafe,,0.015,0,2,60.87,0.52,0.08,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_4_e8_974.lus,Safe,1,0.039,2,28,20.11,0.52,0.13,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_all.lus,Safe,4,0.078,2,68,101.95,0.52,0.25,0,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e7_2910_e2_611.lus,Unsafe,,0.014,0,2,60.99,0.44,0.08,40,false,base_x3
+FMCAD08/Int/memory2/MOESI_2.lus,Safe,1,0.039,2,22,101.72,0.52,0.14,0,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_2_e1_834.lus,Unsafe,,0.017,0,2,64.74,0.52,0.10,40,false,base_x3
+FMCAD08/Int/memory2/MESI_3_e1_2517_e8_2163.lus,Safe,9 7 4,0.774,4,642,113.47,1.27,2.29,0,false,base_x3
+FMCAD08/Int/memory2/MESI_i4_e8_1381_e1_1837.lus,Unsafe,4 2,0.144,2,115,102.55,0.63,0.45,40,false,base_x3
+FMCAD08/Int/memory2/MESI_1_e2_162_e7_1545.lus,Safe,1,0.037,2,27,20.62,0.52,0.15,0,false,base_x3
+FMCAD08/Int/memory2/MESI_i3_e1_447_e2_1098.lus,Unsafe,,0.012,0,2,59.99,0.52,0.08,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_5_e1_811.lus,Unsafe,0,0.027,1,9,64.75,0.52,0.10,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_123_e7_837_e2_1394.lus,Unsafe,,0.014,0,2,60.80,0.52,0.08,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_123_e8_953_e1_1128.lus,Unsafe,,0.013,0,2,34.88,0.42,0.07,40,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_2_e2_2367_e3_1601.lus,Unsafe,,0.018,0,2,88.99,0.52,0.11,40,false,base_x3
+FMCAD08/Int/memory2/MOESI_1_e2_982_e7_492.lus,Safe,2,0.054,2,41,100.85,0.52,0.18,0,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e3_929.lus,Safe,1,0.038,2,22,101.72,0.52,0.13,0,false,base_x3
+FMCAD08/Int/memory2/MESI_i4_e8_1381_e4_313.lus,Unsafe,4 2,0.145,2,115,103.03,0.63,0.45,40,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e1_1753_e1_1510.lus,Unsafe,,0.015,0,2,60.63,0.43,0.09,40,false,base_x3
+FMCAD08/Int/memory2/MESI_i1_e3_2145.lus,Unsafe,,0.013,0,2,21.39,0.42,0.07,40,false,base_x3
+FMCAD08/Int/memory2/MESI_all_e4_1147_e7_497.lus,Safe,3,0.069,2,56,101.89,0.52,0.22,0,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e7_2607.lus,Unsafe,,0.015,0,2,61.61,0.42,0.08,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_2_e8_1118_e2_237.lus,Unsafe,,0.013,0,2,61.23,0.52,0.07,40,false,base_x3
+FMCAD08/Int/memory2/MESI_i1_e3_2145_e5_2391.lus,Unsafe,,0.014,0,2,35.12,0.43,0.08,40,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e3_929_e6_2707.lus,Safe,1,0.039,2,22,100.99,0.53,0.14,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_4.lus,Safe,1,0.036,2,28,100.46,0.52,0.12,0,false,base_x3
+FMCAD08/Int/memory2/MESI_3_e2_819_e7_1665.lus,Unsafe,,0.019,0,2,99.29,0.53,0.10,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_3_e8_1329_e3_421.lus,Unsafe,0,0.041,1,21,100.55,0.54,0.15,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_123_e7_856.lus,Safe,3,0.058,2,46,57.48,0.53,0.20,0,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_2_e1_834_e2_3395.lus,Safe,1,0.051,2,22,98.74,0.52,0.19,0,false,base_x3
+FMCAD08/Int/memory2/MESI_i1_e3_2145_e2_2228.lus,Unsafe,,0.013,0,2,21.40,0.42,0.08,40,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_4.lus,Safe,1,0.050,2,25,93.49,0.52,0.18,0,false,base_x3
+FMCAD08/Int/memory2/MESI_i1_e3_2145_e3_977.lus,Unsafe,,0.013,0,2,21.27,0.42,0.07,40,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_3_e3_2581.lus,Unsafe,,0.019,0,2,90.05,0.52,0.11,40,false,base_x3
+FMCAD08/Int/memory2/MESI_4_e7_1140_e7_433.lus,Safe,2 1,0.111,3,111,102.82,0.64,0.35,0,false,base_x3
+FMCAD08/Int/memory2/MESI_all.lus,Safe,1 0,0.130,3,137,103.95,0.65,0.40,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_2_e8_1118_e1_667.lus,Unsafe,,0.013,0,2,59.98,0.55,0.08,40,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e7_2910_e1_1021.lus,Unsafe,,0.026,0,2,93.88,0.53,0.13,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_123_e3_302_e1_1141.lus,Unsafe,0,0.032,1,9,100.75,0.52,0.12,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_all_e7_907.lus,Safe,4,0.071,2,58,94.57,0.53,0.24,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_123_e8_953_e3_271.lus,Unsafe,2,0.072,1,44,101.35,0.52,0.24,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_2_e8_656.lus,Safe,1,0.033,2,20,100.98,0.53,0.12,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_3_e1_1416_e2_753.lus,Unsafe,,0.014,0,2,21.04,0.53,0.09,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_3_e7_425.lus,Safe,1,0.034,2,22,67.65,0.54,0.13,0,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_2.lus,Safe,1,0.050,2,22,99.60,0.53,0.19,0,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_5_e7_692_e7_2865.lus,Safe,1,0.056,2,25,67.40,0.53,0.20,0,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e3_929_e3_2294.lus,Unsafe,0,0.045,1,17,101.12,0.52,0.17,40,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e3_929_e4_578.lus,Safe,1,0.038,2,22,101.25,0.52,0.13,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_2.lus,Safe,1,0.035,2,20,100.73,0.53,0.12,0,false,base_x3
+FMCAD08/Int/memory2/MESI_i2.lus,Unsafe,0,0.028,1,9,100.86,0.53,0.11,40,false,base_x3
+FMCAD08/Int/memory2/MESI_i1_e4_1986_e1_1519.lus,Unsafe,0,0.042,1,17,101.77,0.53,0.16,40,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_2_e2_2367_e7_2728.lus,Unsafe,,0.021,0,2,57.48,0.53,0.12,40,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e8_926_e8_2138.lus,Safe,1,0.038,2,22,89.72,0.53,0.14,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_5_e1_811_e1_823.lus,Unsafe,0,0.031,1,9,63.77,0.52,0.12,40,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_r4a.lus,Safe,16 13 7,0.826,4,784,109.91,1.36,2.49,0,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_4_e7_2651_e7_2847.lus,Safe,2,0.060,2,31,38.55,0.53,0.22,0,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_2_e1_834_e7_3738.lus,Unsafe,,0.019,0,2,21.54,0.52,0.12,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_2_e8_1118_e8_1177.lus,Safe,1,0.031,2,20,64.00,0.52,0.11,0,false,base_x3
+FMCAD08/Int/memory2/MESI_i1_e3_2145_e8_2325.lus,Unsafe,,0.014,0,2,60.64,0.52,0.07,40,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_5.lus,Safe,1,0.056,2,25,98.11,0.53,0.20,0,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_2_e1_834_e3_2931.lus,Unsafe,,0.019,0,2,94.13,0.52,0.11,40,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_3_e3_2581_e2_2545.lus,Unsafe,,0.016,0,1,100.05,0.52,0.10,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_6_e2_1439_e1_954.lus,Safe,5 4,0.120,3,133,100.89,0.52,0.36,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_all_e8_251_e3_1472.lus,Unsafe,1,0.054,1,31,101.32,0.52,0.19,40,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e8_926_e7_961.lus,Unsafe,,0.015,0,2,60.86,0.52,0.08,40,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e3_929_e8_1167.lus,Safe,1,0.040,2,20,20.09,0.53,0.15,0,false,base_x3
+FMCAD08/Int/memory2/MESI_3_e2_819_e5_2554.lus,Unsafe,,0.018,0,2,63.40,0.52,0.09,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_2_e1_1239.lus,Unsafe,,0.013,0,2,21.40,0.42,0.07,40,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e3_929_e5_1826.lus,Safe,1,0.038,2,22,101.86,0.52,0.13,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_i1.lus,Unsafe,,0.013,0,2,21.12,0.42,0.07,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_3_e1_1416.lus,Unsafe,,0.013,0,2,61.04,0.52,0.07,40,false,base_x3
+FMCAD08/Int/memory2/MESI_i1_e2_2656.lus,Unsafe,,0.013,0,2,21.41,0.42,0.07,40,false,base_x3
+FMCAD08/Int/memory2/MESI_i1_e3_2145_e4_1717.lus,Unsafe,,0.013,0,2,60.58,0.52,0.07,40,false,base_x3
+FMCAD08/Int/memory2/MESI_3_e3_2669.lus,Safe,3 1 0,0.553,4,478,110.96,1.05,1.63,0,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_3_e3_2581_e4_958.lus,Unsafe,,0.016,0,1,57.80,0.52,0.10,40,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e3_929_e7_619.lus,Unsafe,,0.015,0,2,60.86,0.52,0.08,40,false,base_x3
+FMCAD08/Int/memory2/MESI_i1_e3_2145_e7_1847.lus,Unsafe,,0.013,0,2,21.27,0.42,0.07,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_123_e8_953_e8_941.lus,Safe,3,0.066,2,49,101.86,0.52,0.22,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_5_e1_811_e2_1026.lus,Unsafe,0,0.027,1,9,64.79,0.53,0.11,40,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_2_e2_876.lus,Unsafe,,0.018,0,2,93.99,0.52,0.11,40,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_2_e1_834_e1_1895.lus,Unsafe,,0.018,0,2,21.55,0.54,0.13,40,false,base_x3
+FMCAD08/Int/memory2/MESI_i3_e1_447.lus,Unsafe,2 1,0.077,2,54,100.65,0.52,0.25,40,false,base_x3
+FMCAD08/Int/memory2/MESI_3_e2_819_e1_1145.lus,Safe,12 8,0.613,3,510,111.25,1.05,1.84,0,false,base_x3
+FMCAD08/Int/memory2/MESI_3.lus,Safe,12 8,0.615,3,510,111.94,1.06,1.85,0,false,base_x3
+FMCAD08/Int/memory2/MESI_i1_e3_2145_e1_2667.lus,Unsafe,,0.014,0,2,61.20,0.52,0.08,40,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_a1.lus,Safe,10 8 4,0.592,4,577,109.11,1.05,1.79,0,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e8_926_e1_1065.lus,Safe,1,0.046,2,20,20.10,0.52,0.16,0,false,base_x3
+FMCAD08/Int/memory2/MESI_i4_e6_2175.lus,Safe,17 15 12 7,0.712,5,909,109.05,1.15,2.11,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_3_e1_1416_e7_193.lus,Unsafe,,0.014,0,2,61.18,0.53,0.08,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_all_e8_251.lus,Safe,4,0.080,2,68,101.57,0.52,0.26,0,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e1_1753.lus,Safe,1,0.038,2,22,101.99,0.52,0.13,0,false,base_x3
+FMCAD08/Int/memory2/MESI_3_e2_819_e6_1459.lus,Safe,12 10 7,0.815,4,720,114.01,1.26,2.42,0,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e8_101.lus,Safe,1,0.037,2,20,95.54,0.52,0.13,0,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e7_2910_e7_1804.lus,Unsafe,,0.016,0,2,60.49,0.52,0.09,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_5.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/memory2/MOESI_2_e1_1753_e3_2021.lus,Unsafe,0,0.046,1,17,21.57,0.52,0.17,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_all_e3_1864_e7_251.lus,Unsafe,1,0.045,1,22,101.57,0.52,0.16,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_6_e8_1147_e2_1326.lus,Safe,3,0.068,2,58,101.32,0.53,0.22,0,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_3_e3_2581_e1_1130.lus,Unsafe,,0.016,0,1,64.28,0.52,0.10,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_6_e3_1666_e5_1558.lus,Safe,6 4,0.116,3,122,101.05,0.63,0.35,0,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_2_e2_2367_e2_1561.lus,Unsafe,,0.018,0,2,57.71,0.52,0.11,40,false,base_x3
+FMCAD08/Int/memory2/MOESI_all.lus,Safe,3,0.072,2,53,100.75,0.52,0.24,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_all_e8_251_e1_1852.lus,Unsafe,,0.014,0,2,61.20,0.52,0.08,40,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_3_e3_2581_e3_979.lus,Unsafe,,0.019,0,2,101.09,0.52,0.11,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_3_e1_1416_e3_1191.lus,Unsafe,,0.014,0,2,60.55,0.52,0.07,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_all_e3_1750.lus,Unsafe,2,0.064,1,40,100.94,0.52,0.22,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_3_e8_1329_e8_320.lus,Safe,1,0.036,2,24,101.29,0.52,0.12,0,false,base_x3
+FMCAD08/Int/memory2/MOESI_all_e3_2032_e3_2788.lus,Unsafe,0,0.035,1,9,102.36,0.52,0.13,40,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_all.lus,Safe,4,0.128,2,66,103.73,0.63,0.41,0,false,base_x3
+FMCAD08/Int/memory2/MESI_i1_e2_1758_e8_12.lus,Unsafe,,0.014,0,2,60.27,0.54,0.08,40,false,base_x3
+FMCAD08/Int/memory2/MESI_i4_e4_1689.lus,Unsafe,2 1,0.114,2,82,100.90,0.63,0.36,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_123_e8_953_e7_1465.lus,Safe,3,0.062,2,47,95.75,0.54,0.21,0,false,base_x3
+FMCAD08/Int/memory2/MESI_4.lus,Safe,1 0,0.098,3,98,100.45,0.53,0.30,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_2_e1_1239_e1_1331.lus,Unsafe,,0.013,0,2,21.26,0.42,0.07,40,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e1_1753_e2_615.lus,Unsafe,,0.015,0,2,60.13,0.53,0.08,40,false,base_x3
+FMCAD08/Int/memory2/MESI_2.lus,Safe,1,0.035,2,25,101.42,0.53,0.12,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_3_e8_1329_e1_1270.lus,Unsafe,,0.014,0,2,60.80,0.43,0.08,40,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e2_1599_e3_1658.lus,Unsafe,0,0.045,1,17,100.12,0.54,0.17,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_123_e7_837_e3_135.lus,Unsafe,0,0.038,1,15,100.43,0.53,0.15,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_3_e7_1444_e7_638.lus,Safe,1,0.034,2,20,99.89,0.54,0.12,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_123_e3_302.lus,Unsafe,2,0.065,1,42,101.03,0.53,0.22,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_6.lus,Safe,3,0.064,2,53,101.25,0.52,0.20,0,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_3_e3_2581_e5_4006.lus,Unsafe,,0.016,0,1,100.05,0.52,0.10,40,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_2_e2_2367_e1_3182.lus,Safe,1,0.051,2,22,93.74,0.52,0.19,0,false,base_x3
+FMCAD08/Int/memory2/MESI_i3_e1_447_e5_2444.lus,Unsafe,,0.013,0,2,21.25,0.42,0.07,40,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e2_155.lus,Safe,1,0.040,2,22,19.94,0.54,0.15,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_4_e8_420_e7_572.lus,Safe,1,0.034,2,24,100.59,0.53,0.12,0,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_1.lus,Safe,1,0.053,2,27,99.27,0.52,0.19,0,false,base_x3
+FMCAD08/Int/memory2/MESI_1.lus,Safe,2,0.051,2,41,64.65,0.52,0.17,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_2_e8_1118_e7_1043.lus,Safe,1,0.030,2,20,76.83,0.53,0.11,0,false,base_x3
+FMCAD08/Int/memory2/MESI_i4.lus,Unsafe,4 2,0.114,2,82,100.29,0.63,0.36,40,false,base_x3
+FMCAD08/Int/memory2/MOESI_1.lus,Safe,1,0.051,2,25,100.98,0.53,0.17,0,false,base_x3
+FMCAD08/Int/memory2/MESI_3_e2_819_e3_2698.lus,Unsafe,,0.018,0,2,63.67,0.42,0.09,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_3_e8_1708.lus,Safe,1,0.036,2,26,100.40,0.52,0.12,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_all_e8_251_e2_1053.lus,Unsafe,,0.014,0,2,21.16,0.43,0.08,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_3_e8_1329_e7_1062.lus,Safe,1,0.032,2,20,100.90,0.53,0.12,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_2_e1_1239_e2_74.lus,Unsafe,,0.013,0,2,21.44,0.42,0.07,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_123_e8_953_e2_458.lus,Unsafe,,0.013,0,2,60.85,0.52,0.07,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_123.lus,Safe,3,0.074,2,53,89.73,0.53,0.24,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_4_e8_420_e8_1525.lus,Safe,1,0.036,2,28,100.38,0.52,0.12,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_2_e3_216.lus,Unsafe,0,0.028,1,9,64.53,0.43,0.11,40,false,base_x3
+FMCAD08/Int/memory2/MESI_3_e2_819_e8_1896.lus,Unsafe,,0.018,0,2,62.78,0.52,0.09,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_3_e3_1041.lus,Unsafe,0,0.039,1,21,101.21,0.52,0.14,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_3_e8_1329_e2_236.lus,Unsafe,,0.014,0,2,59.89,0.53,0.08,40,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e2_1599_e8_1334.lus,Safe,1,0.038,2,20,100.24,0.52,0.13,0,false,base_x3
+FMCAD08/Int/memory2/MESI_i1.lus,Unsafe,,0.014,0,2,21.30,0.42,0.08,40,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_3_e3_2581_e7_3447.lus,Unsafe,,0.020,0,2,93.43,0.52,0.12,40,false,base_x3
+FMCAD08/Int/memory2/MESI_i3_e1_447_e3_1180.lus,Safe,2,0.053,2,39,20.00,0.53,0.18,0,false,base_x3
+FMCAD08/Int/memory2/MESI_i3_e1_447_e1_1292.lus,Safe,7 4,0.167,3,180,102.27,0.63,0.51,0,false,base_x3
+FMCAD08/Int/memory2/MESI_i3.lus,Unsafe,,0.013,0,2,60.30,0.52,0.07,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_3_e1_1416_e1_1675.lus,Unsafe,,0.014,0,2,21.38,0.42,0.08,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_3.lus,Safe,1,0.036,2,26,100.63,0.52,0.12,0,false,base_x3
+FMCAD08/Int/memory2/MESI_i4_e7_1017_e6_1132.lus,Safe,9 7 4 3,1.086,5,1274,113.49,1.57,3.23,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_123_e7_837_e7_1262.lus,Safe,3,0.059,2,46,100.85,0.55,0.20,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_123_e8_953.lus,Safe,3,0.063,2,51,101.11,0.53,0.21,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_6_e7_938_e2_1012.lus,Safe,3,0.056,2,48,94.40,0.52,0.19,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_all_e3_1864_e3_495.lus,Unsafe,3,0.090,1,63,101.39,0.52,0.29,40,false,base_x3
+FMCAD08/Int/memory2/MESI_i3_e1_447_e7_2194.lus,Unsafe,7 3,0.233,2,217,102.42,0.74,0.71,40,false,base_x3
+FMCAD08/Int/memory2/MESI_i1_e4_1986.lus,Unsafe,,0.013,0,2,21.14,0.53,0.08,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_2_e8_1118_e3_1216.lus,Unsafe,0,0.037,1,15,100.87,0.52,0.13,40,false,base_x3
+FMCAD08/Int/memory2/MOESI_1_e3_1884_e7_1875.lus,Safe,2,0.056,2,41,101.45,0.52,0.18,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_1.lus,Safe,1,0.033,2,25,101.45,0.52,0.12,0,false,base_x3
+FMCAD08/Int/memory2/MESI_3_e2_819.lus,Unsafe,,0.019,0,2,99.77,0.52,0.09,40,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e2_1599_e2_1815.lus,Unsafe,,0.015,0,2,21.33,0.42,0.08,40,false,base_x3
+FMCAD08/Int/memory2/MESI_i3_e1_447_e6_2281.lus,Safe,7 4,0.178,3,214,101.15,0.63,0.54,0,false,base_x3
+FMCAD08/Int/memory2/MESI_3_e2_819_e4_1595.lus,Safe,12 8,0.612,3,510,111.47,1.05,1.84,0,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_all_e7_907_e7_1363.lus,Safe,4,0.062,2,54,95.57,0.52,0.21,0,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e2_1599_e1_2383.lus,Unsafe,,0.015,0,2,21.21,0.52,0.08,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_all_e3_1864_e5_1637.lus,Unsafe,,0.014,0,2,21.26,0.42,0.08,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_123_e2_1653.lus,Unsafe,,0.014,0,2,89.86,0.53,0.08,40,false,base_x3
+FMCAD08/Int/memory2/ILLINOIS_3.lus,Safe,1,0.062,2,24,98.69,0.52,0.22,0,false,base_x3
+FMCAD08/Int/memory2/MOESI_2_e3_929_e1_2319.lus,Unsafe,,0.014,0,2,21.44,0.42,0.08,40,false,base_x3
+FMCAD08/Int/memory2/MESI_3_e2_819_e2_562.lus,Unsafe,,0.018,0,2,100.90,0.53,0.09,40,false,base_x3
+FMCAD08/Int/memory2/SYNAPSE_all_e3_1864_e4_34.lus,Unsafe,,0.014,0,2,21.38,0.42,0.08,40,false,base_x3
+FMCAD08/Int/large/microwave37.lus,Unsafe,0,9.743,2,452,183.53,10.25,29.16,40,false,base_x3
+FMCAD08/Int/large/steam_boiler_no_arr2.lus,Safe,1 0,0.119,3,89,108.87,0.63,0.38,0,false,base_x3
+FMCAD08/Int/large/microwave03.lus,Safe,0,0.047,2,12,68.17,0.63,0.20,0,false,base_x3
+FMCAD08/Int/large/microwave01.lus,Safe,1 0,0.591,3,149,113.09,1.17,1.87,0,false,base_x3
+FMCAD08/Int/large/microwave13.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/large/microwave12.lus,Unsafe,0,0.480,2,37,110.77,1.04,1.52,40,false,base_x3
+FMCAD08/Int/large/microwave31.lus,Unsafe,0,13.714,1,313,189.04,14.23,41.19,40,false,base_x3
+FMCAD08/Int/large/microwave26.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/large/microwave14.lus,Unsafe,0,1.598,2,159,112.16,2.09,4.86,40,false,base_x3
+FMCAD08/Int/large/microwave32.lus,Unsafe,0,7.211,2,423,179.14,7.75,21.72,40,false,base_x3
+FMCAD08/Int/large/microwave27.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/large/microwave16.lus,Safe,0,0.049,2,12,67.15,0.64,0.21,0,false,base_x3
+FMCAD08/Int/large/microwave40.lus,Unsafe,0,0.054,2,13,102.76,0.64,0.27,40,false,base_x3
+FMCAD08/Int/large/steam_boiler_no_arr2_e1_17214_e5_18600.lus,Safe,1 0,0.116,3,89,109.62,0.63,0.38,0,false,base_x3
+FMCAD08/Int/large/microwave28.lus,Unsafe,0,0.888,2,47,156.74,1.48,2.73,40,false,base_x3
+FMCAD08/Int/large/microwave07.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/large/microwave29.lus,Safe,9 4,21.035,3,502,210.54,21.57,63.32,0,false,base_x3
+FMCAD08/Int/large/microwave25.lus,Unsafe,0,0.053,2,13,108.74,0.63,0.24,40,false,base_x3
+FMCAD08/Int/large/microwave22.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/large/microwave11.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/large/microwave06.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/large/microwave15.lus,Safe,0,0.048,2,12,42.55,0.63,0.20,0,false,base_x3
+FMCAD08/Int/large/microwave20.lus,Unsafe,0,0.054,2,13,106.89,0.65,0.25,40,false,base_x3
+FMCAD08/Int/large/microwave19.lus,Safe,12 7,2.025,3,532,161.25,2.51,6.13,0,false,base_x3
+FMCAD08/Int/large/steam_boiler_no_arr2_e3_514_e4_11150.lus,Safe,1 0,0.118,3,89,109.27,0.63,0.38,0,false,base_x3
+FMCAD08/Int/large/microwave02.lus,Safe,0,0.047,2,12,68.24,0.64,0.20,0,false,base_x3
+FMCAD08/Int/large/microwave17.lus,Safe,12 8,2.791,3,463,166.46,3.35,8.44,0,false,base_x3
+FMCAD08/Int/large/microwave33.lus,Unsafe,0,12.261,1,330,184.45,12.78,36.87,40,false,base_x3
+FMCAD08/Int/large/microwave30.lus,Timeout,9 5,59.961,2,366,261.43,300.22,7.63,30,true,base_x3
+FMCAD08/Int/large/microwave35.lus,Unsafe,7 3,35.080,2,464,200.32,35.50,105.29,40,false,base_x3
+FMCAD08/Int/large/steam_boiler_no_arr1.lus,Safe,0,0.269,2,12,136.50,0.94,0.89,0,false,base_x3
+FMCAD08/Int/large/microwave24.lus,Safe,11 7,3.713,3,429,169.95,4.30,11.23,0,false,base_x3
+FMCAD08/Int/large/microwave09.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/large/microwave05.lus,Timeout,,,,,283.86,302.28,1.19,1,true,base_x3
+FMCAD08/Int/large/microwave39.lus,Unsafe,0,95.345,1,428,285.11,95.89,287.19,40,false,base_x3
+FMCAD08/Int/large/steam_boiler_no_arr2_e7_12307.lus,Safe,1 0,0.119,3,89,109.23,0.63,0.38,0,false,base_x3
+FMCAD08/Int/large/microwave36.lus,Unsafe,7 3,5.396,2,525,171.53,5.87,15.94,40,false,base_x3
+FMCAD08/Int/large/microwave38.lus,Unsafe,0,14.687,1,434,191.63,15.18,44.04,40,false,base_x3
+FMCAD08/Int/large/microwave23.lus,Unsafe,0,0.982,2,59,156.30,1.46,2.97,40,false,base_x3
+FMCAD08/Int/large/microwave04.lus,Safe,0,0.057,2,12,107.18,0.63,0.23,0,false,base_x3
+FMCAD08/Int/large/microwave18.lus,Unsafe,0,0.879,2,60,155.28,1.36,2.68,40,false,base_x3
+FMCAD08/Int/large/steam_boiler_no_arr2_e6_3003_e4_15091.lus,Safe,1 0,0.117,3,89,108.46,0.63,0.37,0,false,base_x3
+FMCAD08/Int/large/steam_boiler_no_arr2_e8_21449_e5_18210.lus,Safe,2 0,0.197,3,172,108.76,0.63,0.61,0,false,base_x3
+FMCAD08/Int/large/microwave21.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/large/steam_boiler_no_arr1_e4_23904_e4_2384.lus,Safe,0,0.346,2,12,142.76,0.94,1.12,0,false,base_x3
+FMCAD08/Int/large/microwave10.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Int/large/microwave34.lus,Timeout,,,,,324.12,302.29,1.23,1,true,base_x3
+FMCAD08/Int/large/microwave08.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Real_Int/large/ccp21.lus,Unsafe,6,13.903,1,84,331.88,38.91,113.97,40,false,base_x3
+FMCAD08/Real_Int/large/ccp16.lus,Safe,0,0.021,2,12,21.55,0.52,0.09,0,false,base_x3
+FMCAD08/Real_Int/large/cruise_controller_14.lus,Safe,4 2,0.769,3,218,167.33,1.36,2.40,0,false,base_x3
+FMCAD08/Real_Int/large/cruise_controller_20.lus,Timeout,6,2.268,1,72,204.48,300.25,897.67,30,true,base_x3
+FMCAD08/Real_Int/large/ccp08.lus,Safe,4 3,3.164,3,167,297.16,3.99,9.83,0,false,base_x3
+FMCAD08/Real_Int/large/cruise_controller_05.lus,Safe,0,0.050,2,12,67.54,0.63,0.19,0,false,base_x3
+FMCAD08/Real_Int/large/cruise_controller_19.lus,Safe,8 2 0,11.667,4,1740,194.05,12.28,35.22,0,false,base_x3
+FMCAD08/Real_Int/large/ccp10.lus,Unsafe,7,10.997,1,99,346.11,11.74,33.20,40,false,base_x3
+FMCAD08/Real_Int/large/cruise_controller_18.lus,Safe,10 7 3 0,13.479,5,2364,202.47,14.07,40.44,0,false,base_x3
+FMCAD08/Real_Int/large/cruise_controller_08.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Real_Int/large/ccp02.lus,Safe,2 1 0,9.001,4,270,183.01,9.55,27.14,0,false,base_x3
+FMCAD08/Real_Int/large/cruise_controller_06.lus,Safe,0,0.054,2,12,160.29,0.64,0.28,0,false,base_x3
+FMCAD08/Real_Int/large/ccp12.lus,Unsafe,15,36.872,1,281,356.43,71.71,210.93,40,false,base_x3
+FMCAD08/Real_Int/large/cruise_controller_03.lus,Safe,1 0,1.831,3,150,167.50,2.41,5.54,0,false,base_x3
+FMCAD08/Real_Int/large/cruise_controller_23.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Real_Int/large/ccp18.lus,Safe,3 2,7.194,3,163,258.86,8.07,22.17,0,false,base_x3
+FMCAD08/Real_Int/large/ccp04.lus,Safe,1 0,1.589,3,133,168.20,2.21,4.82,0,false,base_x3
+FMCAD08/Real_Int/large/cruise_controller_07.lus,Safe,0,0.054,2,12,94.28,0.63,0.27,0,false,base_x3
+FMCAD08/Real_Int/large/cruise_controller_17.lus,Unsafe,38 24,28.359,2,2268,216.02,28.86,85.02,40,false,base_x3
+FMCAD08/Real_Int/large/ccp19.lus,Safe,0,0.043,2,12,316.70,0.94,0.56,0,false,base_x3
+FMCAD08/Real_Int/large/cruise_controller_09.lus,Unsafe,0,7.799,2,252,181.73,8.39,23.57,40,false,base_x3
+FMCAD08/Real_Int/large/ccp23.lus,Unsafe,38 33 21,85.999,3,2665,329.68,155.36,452.10,40,false,base_x3
+FMCAD08/Real_Int/large/cruise_controller_21.lus,Unsafe,0,0.055,2,13,157.80,0.63,0.30,40,false,base_x3
+FMCAD08/Real_Int/large/ccp17.lus,Safe,4 1 0,23.537,4,781,330.16,24.74,71.55,0,false,base_x3
+FMCAD08/Real_Int/large/ccp01.lus,Safe,2 1 0,9.786,4,328,182.75,10.49,29.65,0,false,base_x3
+FMCAD08/Real_Int/large/ccp05.lus,Safe,0,0.036,2,12,107.32,0.64,0.30,0,false,base_x3
+FMCAD08/Real_Int/large/ccp14.lus,Unsafe,0,66.663,2,2358,260.71,67.85,200.80,40,false,base_x3
+FMCAD08/Real_Int/large/cruise_controller_24.lus,Safe,4 3,2.271,3,124,172.37,2.83,6.86,0,false,base_x3
+FMCAD08/Real_Int/large/ccp20.lus,Safe,13 9,17.102,3,637,379.74,18.01,51.77,0,false,base_x3
+FMCAD08/Real_Int/large/cruise_controller_02.lus,Safe,1 0,1.971,3,152,169.07,2.52,5.94,0,false,base_x3
+FMCAD08/Real_Int/large/ccp07.lus,Safe,0,0.048,2,12,248.79,0.83,0.49,0,false,base_x3
+FMCAD08/Real_Int/large/ccp22.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Real_Int/large/ccp11.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Real_Int/large/cruise_controller_15.lus,Unsafe,0,16.522,2,2971,221.65,17.19,49.81,40,false,base_x3
+FMCAD08/Real_Int/large/ccp13.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Real_Int/large/ccp09.lus,Safe,0,0.044,2,12,268.20,0.95,0.53,0,false,base_x3
+FMCAD08/Real_Int/large/cruise_controller_04.lus,Safe,2,0.435,2,43,161.85,0.94,1.34,0,false,base_x3
+FMCAD08/Real_Int/large/ccp03.lus,Safe,2 1 0,8.400,4,357,184.95,9.01,25.31,0,false,base_x3
+FMCAD08/Real_Int/large/cruise_controller_11.lus,Safe,0,0.056,2,12,164.61,0.62,0.29,0,false,base_x3
+FMCAD08/Real_Int/large/cruise_controller_13.lus,Safe,0,0.054,2,12,41.90,0.63,0.27,0,false,base_x3
+FMCAD08/Real_Int/large/ccp06.lus,Safe,0,0.043,2,12,332.89,0.95,0.55,0,false,base_x3
+FMCAD08/Real_Int/large/cruise_controller_10.lus,Safe,14 6 0,14.163,4,3829,221.10,14.89,42.84,0,false,base_x3
+FMCAD08/Real_Int/large/ccp15.lus,Safe,0,0.047,2,12,326.83,0.94,0.52,0,false,base_x3
+FMCAD08/Real_Int/large/ccp24.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Real_Int/large/cruise_controller_16.lus,Unsafe,149 138 114 92 66 42,266.771,6,30782,491.88,267.62,706.45,40,false,base_x3
+FMCAD08/Real_Int/large/cruise_controller_12.lus,Safe,2 1,0.803,3,153,167.28,1.36,2.55,0,false,base_x3
+FMCAD08/Real_Int/large/cruise_controller_22.lus,Unsafe,25 15,15.999,2,1216,200.38,16.70,48.19,40,false,base_x3
+FMCAD08/Real_Int/large/cruise_controller_01.lus,Safe,5 3 2,4.567,4,553,173.62,5.03,13.68,0,false,base_x3
+FMCAD08/Real_Int32/large/ccp21.lus,Unsafe,18 11,35.234,2,673,313.58,36.62,107.25,40,false,base_x3
+FMCAD08/Real_Int32/large/ccp16.lus,Safe,0,0.017,2,12,21.63,0.52,0.10,0,false,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_14.lus,Safe,2 1,0.692,3,115,184.48,1.26,2.23,0,false,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_20.lus,Unsafe,3,1.076,1,36,252.31,49.51,143.77,40,false,base_x3
+FMCAD08/Real_Int32/large/ccp08.lus,Safe,3 2,4.084,3,149,217.94,4.82,12.52,0,false,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_05.lus,Safe,0,0.038,2,12,38.96,0.54,0.21,0,false,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_19.lus,Safe,9 2 0,18.258,4,1618,214.51,19.08,54.56,0,false,base_x3
+FMCAD08/Real_Int32/large/ccp10.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_18.lus,Safe,9 3 0,21.271,4,1626,218.30,21.81,63.91,0,false,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_08.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Real_Int32/large/ccp02.lus,Safe,5 3 2,21.472,4,516,210.20,22.13,64.66,0,false,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_06.lus,Safe,0,0.052,2,12,144.58,0.63,0.34,0,false,base_x3
+FMCAD08/Real_Int32/large/ccp12.lus,Timeout,,,,,328.08,302.30,2.16,1,true,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_03.lus,Safe,3 2 1,5.069,4,363,195.34,5.66,15.41,0,false,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_23.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Real_Int32/large/ccp18.lus,Safe,1 0,10.578,2,91,329.82,11.43,31.93,0,false,base_x3
+FMCAD08/Real_Int32/large/ccp04.lus,Safe,2,2.223,2,41,190.46,2.83,6.81,0,false,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_07.lus,Safe,0,0.047,2,12,144.21,0.63,0.32,0,false,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_17.lus,Unsafe,14,10.890,1,270,228.86,41.11,118.35,40,false,base_x3
+FMCAD08/Real_Int32/large/ccp19.lus,Safe,0,0.059,2,12,335.40,0.94,0.59,0,false,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_09.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Real_Int32/large/ccp23.lus,Unsafe,12 7,41.088,2,702,415.42,143.45,439.35,40,false,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_21.lus,Unsafe,,0.027,0,1,147.84,0.63,0.30,40,false,base_x3
+FMCAD08/Real_Int32/large/ccp17.lus,Safe,4 1 0,10.813,4,773,318.80,11.63,32.97,0,false,base_x3
+FMCAD08/Real_Int32/large/ccp01.lus,Safe,3 2 1,16.101,4,356,206.76,16.66,48.48,0,false,base_x3
+FMCAD08/Real_Int32/large/ccp05.lus,Safe,0,0.042,2,12,115.82,0.63,0.29,0,false,base_x3
+FMCAD08/Real_Int32/large/ccp14.lus,Timeout,15 11 7 6,55.117,4,1825,485.21,300.24,951.50,30,true,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_24.lus,Safe,5 4,3.837,3,168,201.71,4.41,11.62,0,false,base_x3
+FMCAD08/Real_Int32/large/ccp20.lus,Timeout,,,,,343.00,302.27,2.15,1,true,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_02.lus,Safe,3 2 1 0,7.597,5,637,197.73,8.08,22.85,0,false,base_x3
+FMCAD08/Real_Int32/large/ccp07.lus,Safe,0,0.050,2,12,322.55,0.85,0.54,0,false,base_x3
+FMCAD08/Real_Int32/large/ccp22.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Real_Int32/large/ccp11.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_15.lus,Unsafe,43 25,36.532,2,2764,244.46,37.12,109.31,40,false,base_x3
+FMCAD08/Real_Int32/large/ccp13.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Real_Int32/large/ccp09.lus,Safe,0,0.058,2,12,285.12,0.94,0.63,0,false,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_04.lus,Safe,2,0.768,2,41,183.21,1.37,2.42,0,false,base_x3
+FMCAD08/Real_Int32/large/ccp03.lus,Safe,3 2 1,9.796,4,360,205.37,10.39,29.61,0,false,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_11.lus,Safe,0,0.053,2,12,150.26,0.63,0.34,0,false,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_13.lus,Safe,0,0.046,2,12,150.83,0.62,0.29,0,false,base_x3
+FMCAD08/Real_Int32/large/ccp06.lus,Safe,0,0.051,2,12,384.59,0.94,0.64,0,false,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_10.lus,Safe,16 10 1 0,24.366,5,3857,245.29,24.97,74.40,0,false,base_x3
+FMCAD08/Real_Int32/large/ccp15.lus,Safe,0,0.054,2,12,342.85,0.95,0.56,0,false,base_x3
+FMCAD08/Real_Int32/large/ccp24.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_16.lus,Timeout,,,,,,,,,true,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_12.lus,Safe,4 3,0.904,3,141,186.71,1.47,2.88,0,false,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_22.lus,Unsafe,52 23,43.109,2,4226,289.03,43.62,128.74,40,false,base_x3
+FMCAD08/Real_Int32/large/cruise_controller_01.lus,Safe,1 0,3.996,3,132,190.00,4.50,12.10,0,false,base_x3

@@ -1,0 +1,6 @@
+quick_results/
+__pycache__/
+*.py[cod]
+*.log
+*.out/
+.DS_Store
