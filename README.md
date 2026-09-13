@@ -13,8 +13,8 @@ the five-way comparison:
 
 - `bin/kind2`: executable used by the completed `base_x3` run
 - `scripts/exp_resume.py`: experiment runner and report generator
-- `scripts/analyze_minimal_results.py`: additional result analysis
-- `scripts/reconstruct_portfolios.py`: offline portfolio reconstruction
+- `scripts/quick_start.py`: quick smoke test for all five variants
+- `scripts/plot_combined_base_vs_pic3.py`: paper execution-time plot with standalone lanes and VBS
 - `configs/compare_single_p_907_resume.json`: experiment configuration
 - `datasets/`: benchmark path lists
 - `results/raw/`: per-variant raw CSV files
@@ -85,4 +85,17 @@ python3 scripts/exp_resume.py run \
   --report-every 100
 ```
 
-All experiment scripts use only the Python standard library.
+The experiment runner and smoke test use only the Python standard library.
+
+## Rebuilding the paper figure
+
+The plotting script requires Matplotlib, NumPy, and pandas. From the artifact directory:
+
+```bash
+python3 scripts/plot_combined_base_vs_pic3.py --run-dir results
+```
+
+This reads `base.csv`, `pic3.csv`, `asc_l1l2.csv`, and `desc_l2l1.csv` from
+`results/raw/`, uses execution time with a 300-second timeout, and writes
+`fig/base_vs_pic3_execution_time_with_standalone_vbs.png` and `.pdf`.
+Use `--output /path/to/figure_basename` to choose another output location.
